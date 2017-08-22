@@ -1,0 +1,26 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg024.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = ἑστίη, ἥτε ἄνακτος Ἀπόλλωνος ἑκάτοιο σὺν Διὶ μητιόεντι·
+1	ἑστίη	ἑστίνω	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	ἥτε	ὅστε	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	ἄνακτος	ἄναξ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	Ἀπόλλωνος	Ἀπόλλων	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	ἑκάτοιο	ἕκατος	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	σὺν	σύν	ADP	r--------	_	8	case	_	_
+8	Διὶ	Ζεύς	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+9	μητιόεντι	μητιόεις	VERB	v-sppamd-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	nmod	_	SpaceAfter=No
+10	·	·	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg024.perseus-grc2
+#newpar = 5-5
+#sent_id = 2
+#text = χάριν δʼ ἅμʼ ὄπασσον ἀοιδῇ.
+1	χάριν	χάρις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+2	δʼ	δʼ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἅμʼ	ἅμʼ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+4	ὄπασσον	ὀπάζω	VERB	v2sama---	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+5	ἀοιδῇ	ἀοιδή	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	2	punct	_	_
+

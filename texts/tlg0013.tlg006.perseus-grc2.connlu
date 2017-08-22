@@ -1,0 +1,53 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = αἰδοίην, χρυσοστέφανον, καλὴν Ἀφροδίτην ἀφρῷ ἔνι μαλακῷ:
+1	αἰδοίην	αἰδοῖος	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	χρυσοστέφανον	χρυσοστέφανος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	1	punct	_	_
+5	καλὴν	καλός	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+6	Ἀφροδίτην	Ἀφροδίτη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	appos	_	_
+7	ἀφρῷ	ἀφρός	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+8	ἔνι	ἔνειμι	ADP	r--------	_	7	case	_	_
+9	μαλακῷ	μαλακός	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 5-15
+#sent_id = 2
+#text = τὴν δὲ χρυσάμπυκες Ὧραι δειρῇ δ᾽ ἀμφ᾽ ἁπαλῇ καὶ στήθεσιν ἀργυφέοισιν ἦγον ἐς ἀθανάτους:
+1	τὴν	ὁ	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+2	δὲ	δέ	PART	g--------	_	6	advmod	_	_
+3	χρυσάμπυκες	χρυσάμπυξ	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	nmod	_	_
+4	Ὧραι	ὥρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
+5	δειρῇ	δειρή	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	_
+6	δ᾽	δ᾽	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ἀμφ᾽	ἀμφ᾽	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+8	ἁπαλῇ	ἁπαλός	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	12	obj	_	_
+9	καὶ	καί	CCONJ	c--------	_	8	cc	_	_
+10	στήθεσιν	στῆθος	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	8	conj	_	_
+11	ἀργυφέοισιν	ἀργυφέος	ADJ	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur	12	advmod	_	_
+12	ἦγον	ἄγω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+13	ἐς	εἰς	ADP	r--------	_	14	case	_	_
+14	ἀθανάτους	ἀθάνατος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+15	:	:	PUNCT	u--------	_	7	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 15-20
+#sent_id = 3
+#text = οἳ δ᾽ ἠσπάζοντο ἰδόντες νίκην τῷδε φέρεσθαι, ἐμὴν δ᾽ ἔντυνον ἀοιδήν.
+1	οἳ	ὁ	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	δ᾽	δ᾽	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἠσπάζοντο	ἀσπάζομαι	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	ccomp	_	_
+4	ἰδόντες	εἶδον	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+5	νίκην	νίκη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	τῷδε	ὅδε	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+7	φέρεσθαι	φέρω	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	3	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	3	punct	_	_
+9	ἐμὴν	ἐμός	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+10	δ᾽	δ᾽	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	ἔντυνον	ἐντύνω	VERB	v2sama---	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+12	ἀοιδήν	ἀοιδή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	u--------	_	2	punct	_	_
+

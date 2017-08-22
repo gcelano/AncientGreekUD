@@ -1,0 +1,2352 @@
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 1
+#text = 1.
+1	1	1	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 2
+#text = Epit.
+1	Epit	Epit	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 3
+#text = Heraclidis 1 :
+1	Heraclidis	Heraclidis	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	1	1	NUM	m--------	_	1	obj	_	_
+3	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 4
+#text = Ἀθηναῖοι τὸ μὲν ἐξ ἀρχῆς ἐχρῶντο βασιλείᾳ, συνοικήσαντος δὲ Ἴωνος αὐτοὺς τότε πρῶτον Ἴωνες ἐκλήθησαν.
+1	Ἀθηναῖοι	Ἀθηναῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	τὸ	ὁ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+3	μὲν	μέν	PART	g--------	_	6	advmod	_	_
+4	ἐξ	ἐκ	ADP	r--------	_	5	case	_	_
+5	ἀρχῆς	ἀρχή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+6	ἐχρῶντο	χράω	VERB	v3paim---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	βασιλείᾳ	βασιλεία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	6	punct	_	_
+9	συνοικήσαντος	συνοικέω	VERB	v-sapamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	_
+10	δὲ	δέ	PART	g--------	_	16	cc	_	_
+11	Ἴωνος	Ἴωνος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nsubj	_	_
+12	αὐτοὺς	αὐτός	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+13	τότε	τότε	ADV	d--------	_	16	advmod	_	_
+14	πρῶτον	πρῶτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	advmod	_	_
+15	Ἴωνες	Ἴωνες	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+16	ἐκλήθησαν	καλέω	VERB	v3paip---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	SpaceAfter=No
+17	.	.	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 5
+#text = Πανδίων δὲ βασιλεύσας μετὰ Ἐρεχθέα διένειμε τὴν ἀρχὴν τοῖς υἱοῖς.
+1	Πανδίων	Πανδίων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	δὲ	δέ	PART	g--------	_	6	advmod	_	_
+3	βασιλεύσας	βασιλεύω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	_
+4	μετὰ	μετά	ADP	r--------	_	5	case	_	_
+5	Ἐρεχθέα	Ἐρεχθεύς	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+6	διένειμε	διανέμω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	det	_	_
+8	ἀρχὴν	ἀρχή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	10	det	_	_
+10	υἱοῖς	υἱός	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 6
+#text = καὶ διετέλουν οὗτοι στασιάζοντες.
+1	καὶ	καί	CCONJ	c--------	_	2	advmod	_	_
+2	διετέλουν	διετέλους	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	οὗτοι	οὗτος	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+4	στασιάζοντες	στασιάζω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 7
+#text = Harocration Ἀπόλλων πατρῷος:
+1	Harocration	Harocration	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	πατρῷος	πατρῷος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 8
+#text = ὁ Πύθιος.
+1	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	Πύθιος	πύθιος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 9
+#text = προσηγορία τίς ἐστι τοῦ θεοῦ, πολλῶν καὶ ἄλλων οὐσῶν.
+1	προσηγορία	προσηγορεῖς	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	advmod	_	_
+2	τίς	τις	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	det	_	_
+5	θεοῦ	θεός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	2	punct	_	_
+7	πολλῶν	πολύς	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	2	amod	_	_
+8	καὶ	καί	CCONJ	c--------	_	7	cc	_	_
+9	ἄλλων	ἄλλος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+10	οὐσῶν	οὐσός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 10
+#text = τὸν δὲ Ἀπόλλωνα κοινῶς πατρῷον τιμῶσιν Ἀθηναιοι ἀπὸ Ἴωνος·
+1	τὸν	ὁ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+2	δὲ	δέ	PART	g--------	_	6	advmod	_	_
+3	Ἀπόλλωνα	Ἀπόλλων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+4	κοινῶς	κοινός	ADV	d--------	_	5	advmod	_	_
+5	πατρῷον	πατρῷος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
+6	τιμῶσιν	τιμάω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Ἀθηναιοι	Ἀθηναιος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+8	ἀπὸ	ἀπό	ADP	r--------	_	9	case	_	_
+9	Ἴωνος	Ἴωνος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	·	·	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 11
+#text = τούτου γὰρ &amp;lt;συν&amp;gt;οικήσαντος τὴν Ἀττικήν, ὡς Ἀριστοτέλης ὀνομασθῆναι.
+1	τούτου	οὗτος	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	γὰρ	γάρ	PART	g--------	_	3	advmod	_	_
+3	&amp;lt;συν&amp;gt;οικήσαντος	&amp;lt;συν&amp;gt;οικέω	VERB	v-sapamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+5	Ἀττικήν	Ἀττική	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	ὡς	ὡς	SCONJ	c--------	_	9	mark	_	_
+8	Ἀριστοτέλης	Ἀριστοτέλη	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	ὀνομασθῆναι	ὀνομάζω	VERB	v--anp---	Tense=Past|VerbForm=Inf|Voice=Pass	3	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 12
+#text = Lex.
+1	Lex	Lex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 13
+#text = Bekk.
+1	Bekk	Bekk	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 14
+#text = quintum s.
+1	quintum	quintum	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	s	s	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 15
+#text = v.
+1	v	v	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 16
+#text = πάτιος Ἀπόλλων ( ΒΑ 292, 3):
+1	πάτιος	πάτιος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	(	(	PUNCT	u--------	_	4	advmod	_	_
+4	ΒΑ	Βα	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	292	292	NUM	m--------	_	3	nummod	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	3	3	NUM	m--------	_	4	punct	_	SpaceAfter=No
+8	)	)	PUNCT	u--------	_	7	punct	_	SpaceAfter=No
+9	:	:	PUNCT	u--------	_	7	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 17
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 18
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 19
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 20
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 21
+#text = ἢ ὅτι Ἀπόλλων μιγεὶς Κρεούσῃ τῇ θυγατρὶ Ἐρεχθέως ἐγέννησεν τὸν Ἴωνα, ἀφ᾿ οὗ Ἴωνες, καὶ διὰ τοῦτο πάτριός ἐστιν Ἀθηναίοις ὁ Ἀπόλλων.
+1	ἢ	ἤ	CCONJ	c--------	_	13	advmod	_	_
+2	ὅτι	ὅτι	SCONJ	c--------	_	9	mark	_	_
+3	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+4	μιγεὶς	μιγεὶς	VERB	v-sappmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	_
+5	Κρεούσῃ	Κρεούσης	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+6	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	det	_	_
+7	θυγατρὶ	θυγάτηρ	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	4	obj	_	_
+8	Ἐρεχθέως	Ἐρεχθεύς	ADV	d--------	_	9	advmod	_	_
+9	ἐγέννησεν	ἐγέννησεν	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	_
+10	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	det	_	_
+11	Ἴωνα	Ἴων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	9	punct	_	_
+13	ἀφ᾿	ἀφ᾿	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+15	Ἴωνες	Ἴωνες	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	13	punct	_	_
+17	καὶ	καί	CCONJ	c--------	_	13	cc	_	_
+18	διὰ	διά	ADP	r--------	_	19	case	_	_
+19	τοῦτο	οὗτος	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
+20	πάτριός	πάτριος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+21	ἐστιν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+22	Ἀθηναίοις	Ἀθήναιος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	24	nmod	_	_
+23	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	24	det	_	_
+24	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	13	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 22
+#text = Ex eodem lexico Lex.
+1	Ex	Ex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	nsubj	_	_
+2	eodem	eodem	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+3	lexico	lexico	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	Lex	Lex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 23
+#text = Patm.
+1	Patm	Patm	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 24
+#text = p.
+1	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 25
+#text = 143 πατρῷος Ἀπόλλων:
+1	143	143	NUM	m--------	_	3	nummod	_	_
+2	πατρῷος	πατρῷος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+3	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 26
+#text = οὗτος Ἀθήνησιν ἐτιμᾶτο, ἐπειδὴ Ἀπόλλων συγγενόμενος Κρεούσῃ τῇ Ἐρεχθέως ἐγέννησεν Ἴωνα, ἀφ᾿ οὗ Ἴωνες, et Schol.
+1	οὗτος	οὗτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Ἀθήνησιν	Ἀθήνην	ADV	d--------	_	3	advmod	_	_
+3	ἐτιμᾶτο	τιμάω	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	5	punct	_	_
+5	ἐπειδὴ	ἐπεί	CCONJ	c--------	_	11	mark	_	_
+6	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+7	συγγενόμενος	συγγενόμενος	VERB	v-sppemn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	11	advcl	_	_
+8	Κρεούσῃ	Κρεούσης	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	obj	_	_
+9	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	8	det	_	_
+10	Ἐρεχθέως	Ἐρεχθεύς	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	ἐγέννησεν	ἐγέννησεν	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+12	Ἴωνα	Ἴων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	14	punct	_	_
+14	ἀφ᾿	ἀφ᾿	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+15	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+16	Ἴωνες	Ἴωνες	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	3	punct	_	_
+18	et	et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+19	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	SpaceAfter=No
+20	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 27
+#text = Plat.
+1	Plat	Plat	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 28
+#text = Euthyd.
+1	Euthyd	Euthyd	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 29
+#text = 302 C: Ἀπόλλων πατρῷος].
+1	302	302	NUM	m--------	_	3	nummod	_	_
+2	C:	C:	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	πατρῷος	πατρῷος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	]	]	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 30
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 31
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 32
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 33
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 34
+#text = οἱ δὲ ὅτι Κρεούσῃ τῇ Ἐρεχθέως μιγεὶς Ἀπόλλων Ἴωνα ἐγέννησεν, ἀφ᾿ οὗ καὶ τοὺς Ἀθηναίους ποτὲ Ἴωνας κληθῆναι καὶ διὰ ταῦτα τατρῷον αὐτοὺς Ἀπόλλωνα ἔχειν.
+1	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+2	δὲ	δέ	PART	g--------	_	10	cc	_	_
+3	ὅτι	ὅτι	SCONJ	c--------	_	10	mark	_	_
+4	Κρεούσῃ	Κρεούσης	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	_
+5	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	4	det	_	_
+6	Ἐρεχθέως	Ἐρεχθεύς	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	μιγεὶς	μιγεὶς	VERB	v-sappmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
+8	Ἀπόλλων	Ἀπόλλων	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	Ἴωνα	Ἴων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+10	ἐγέννησεν	ἐγέννησεν	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	9	punct	_	_
+12	ἀφ᾿	ἀφ᾿	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	appos	_	_
+13	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	19	nsubj	_	_
+14	καὶ	καί	CCONJ	c--------	_	16	advmod	_	_
+15	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	16	det	_	_
+16	Ἀθηναίους	Ἀθήναιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	nsubj	_	_
+17	ποτὲ	ποτέ	ADV	d--------	_	19	advmod	_	_
+18	Ἴωνας	Ἴωνες	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	obj	_	_
+19	κληθῆναι	κλάω	VERB	v--anp---	Tense=Past|VerbForm=Inf|Voice=Pass	12	ccomp	_	_
+20	καὶ	καί	CCONJ	c--------	_	19	cc	_	_
+21	διὰ	διά	ADP	r--------	_	22	case	_	_
+22	ταῦτα	οὗτος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	_
+23	τατρῷον	τατρῷω	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	25	amod	_	_
+24	αὐτοὺς	αὐτός	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	23	nmod	_	_
+25	Ἀπόλλωνα	Ἀπόλλων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+26	ἔχειν	ἔχω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	19	conj	_	SpaceAfter=No
+27	.	.	PUNCT	u--------	_	10	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 35
+#text = Schol.
+1	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 36
+#text = Arist.
+1	Arist	Arist	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 37
+#text = Av.
+1	Av	Av	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 38
+#text = 1527 πατρῷον διὰ τιμῶσιν Ἀπόλλωνα Ἀθηναῖοι, ἐπεὶ Ἴων ὁ πολέμαρχος Ἀθηναίων ἐξ Ἀπόλλωνος καὶ Κρεούσης τῆς Ξούθου &amp;lt;γυναικὸς&amp;gt;ἐγένετο.
+1	1527	1527	NUM	m--------	_	5	nummod	_	_
+2	πατρῷον	πατρῷος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
+3	διὰ	διά	ADP	r--------	_	4	advmod	_	_
+4	τιμῶσιν	τιμάω	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Ἀπόλλωνα	Ἀπόλλων	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	Ἀθηναῖοι	Ἀθηναῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	8	punct	_	_
+8	ἐπεὶ	ἐπεί	CCONJ	c--------	_	19	mark	_	_
+9	Ἴων	ἴον	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+10	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
+11	πολέμαρχος	πολέμαρχος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nmod	_	_
+12	Ἀθηναίων	Ἀθήναιος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+13	ἐξ	ἐκ	ADP	r--------	_	14	case	_	_
+14	Ἀπόλλωνος	Ἀπόλλων	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+15	καὶ	καί	CCONJ	c--------	_	14	cc	_	_
+16	Κρεούσης	Κρεούσης	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	_
+17	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	18	det	_	_
+18	Ξούθου	Ξούθος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+19	&amp;lt;γυναικὸς&amp;gt;ἐγένετο	&amp;lt;γυναικὸς&amp;gt;ἐγένω	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	u--------	_	19	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 39
+#text = cf.
+1	cf	cf	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 40
+#text = Bekk.
+1	Bekk	Bekk	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 41
+#text = An.
+1	An	An	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 42
+#text = 291 = Schol.
+1	291	291	NUM	m--------	_	2	nummod	_	_
+2	=	=	SYM	_	_	3	advmod	_	_
+3	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 43
+#text = Plat.
+1	Plat	Plat	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 1-1
+#sent_id = 44
+#text = Euthydem.
+1	Euthydem	Euthydem	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 45
+#text = 2.
+1	2	2	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 46
+#text = Plutarch.
+1	Plutarch	Plutarch	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 47
+#text = Thes.
+1	Thes	Thes	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 48
+#text = 25 ἔτι δὲ μᾶλλον αὐξῆσαι τὴν πόλιν βουλόμενος ἐκάλει πάντας ἐπὶ τοῖς ἴσοις, καὶ τὸ “ δεῦρ᾿ ἴτε πάντες λεῴ” κήρυγμα Θησέως γενέσθαι φασὶ πανδημίαν τινα καθιστάντος.
+1	25	25	NUM	m--------	_	9	advcl	_	_
+2	ἔτι	ἔτι	ADV	d--------	_	1	advmod	_	_
+3	δὲ	δέ	PART	g--------	_	9	advmod	_	_
+4	μᾶλλον	μᾶλλον	ADV	d--------	_	1	advmod	_	_
+5	αὐξῆσαι	αὐξέω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	1	cop	_	_
+6	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
+7	πόλιν	πόλις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	nsubj	_	_
+8	βουλόμενος	βούλομαι	VERB	v-sppemn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	cop	_	_
+9	ἐκάλει	ἐκάλω	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	πάντας	πᾶς	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+11	ἐπὶ	ἐπί	ADP	r--------	_	13	case	_	_
+12	τοῖς	ὁ	DET	l-p---nd-	Case=Dat|Gender=Neut|Number=Plur	13	det	_	_
+13	ἴσοις	ἴσος	ADJ	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur	10	amod	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	18	punct	_	_
+15	καὶ	καί	CCONJ	c--------	_	13	cc	_	_
+16	τὸ	ὁ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+17	“	“	PUNCT	u--------	_	16	punct	_	_
+18	δεῦρ᾿	δεῦρ᾿	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+19	ἴτε	ἴτε	CCONJ	c--------	_	18	cc	_	_
+20	πάντες	πᾶς	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
+21	λεῴ	λεῴ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No
+22	”	”	PUNCT	u--------	_	25	punct	_	_
+23	κήρυγμα	κήρυγμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	_
+24	Θησέως	Θησεύς	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+25	γενέσθαι	γίγνομαι	VERB	v--anm---	Tense=Past|VerbForm=Inf|Voice=Mid	26	ccomp	_	_
+26	φασὶ	φημί	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	_
+27	πανδημίαν	πανδημία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	25	xcomp	_	_
+28	τινα	τις	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	27	nmod	_	_
+29	καθιστάντος	καθιστάις	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	9	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 49
+#text = οὐ μὴν ἄτακτον οὐδὲ μεμιγμένην περιεῖδεν ὑπὸ πλήθους ἐπιχυθέντος ἀκρίτου γενομένην τὴν δημοκρατίαν, ἀλλὰ πρῶτος ἀποκρίνας χωρὶς εὐπατρίδας καὶ γεωμόρους καὶ δημιουργούς, εὐπατρίδαις δὲ γινώσκειν τὰ θεῖα καὶ παρέχειν ἄρχοντας ἀποδοὺς καὶ νόμων διεδασκλους εἶναι καὶ ὁσίων καὶ ἱερῶν ἐξηγητάς, τοῖς ἄλλοις πολίταις ὥσπερ εἰς ἴσον κατέστησε, δόξῃ μὲν εὐπατριδῶν χρείᾳ δὲ γεωμόρων πλήθει δὲ δημιουργῶν ὑπερέχειν δοκούντων.
+1	οὐ	οὐ	ADV	d--------	_	3	advmod	_	_
+2	μὴν	μήν	PART	g--------	_	1	advmod	_	_
+3	ἄτακτον	ἄτακτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+4	οὐδὲ	μηοὐδέ	PART	g--------	_	3	advmod	_	_
+5	μεμιγμένην	μεμιγμένη	VERB	v-sfpmfa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Mid	3	cop	_	_
+6	περιεῖδεν	περιεῖδον	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+7	ὑπὸ	ὑπό	ADP	r--------	_	8	case	_	_
+8	πλήθους	πλῆθος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+9	ἐπιχυθέντος	ἐπιχυθέντος	VERB	v-sappng-	Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+10	ἀκρίτου	ἀκρίτος	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	11	xcomp	_	_
+11	γενομένην	γίγνομαι	VERB	v-sapmfa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	13	nmod	_	_
+12	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	det	_	_
+13	δημοκρατίαν	δημοκρατία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	6	punct	_	_
+15	ἀλλὰ	ἀλλά	CCONJ	c--------	_	6	cc	_	_
+16	πρῶτος	πρῶτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	xcomp	_	_
+17	ἀποκρίνας	ἀποκρίνω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	27	advcl	_	_
+18	χωρὶς	χωρίς	ADP	r--------	_	19	case	_	_
+19	εὐπατρίδας	εὐπατρίς	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	17	obl	_	_
+20	καὶ	καί	CCONJ	c--------	_	17	advmod	_	_
+21	γεωμόρους	γεωμόρος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
+22	καὶ	καί	CCONJ	c--------	_	21	cc	_	_
+23	δημιουργούς	δημιουργός	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	conj	_	SpaceAfter=No
+24	,	,	PUNCT	u--------	_	17	punct	_	_
+25	εὐπατρίδαις	εὐπατρίδος	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	27	advmod	_	_
+26	δὲ	δέ	PART	g--------	_	6	cc	_	_
+27	γινώσκειν	γιγνώσκω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	conj	_	_
+28	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	29	det	_	_
+29	θεῖα	θεῖος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	27	obj	_	_
+30	καὶ	καί	CCONJ	c--------	_	29	cc	_	_
+31	παρέχειν	παρέχω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	29	conj	_	_
+32	ἄρχοντας	ἄρχω	VERB	v-pppama-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	33	xcomp	_	_
+33	ἀποδοὺς	ἀποδίδωμι	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	31	advcl	_	_
+34	καὶ	καί	CCONJ	c--------	_	35	advmod	_	_
+35	νόμων	νόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	33	obj	_	_
+36	διεδασκλους	διεδασκλος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	35	conj	_	_
+37	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	36	cop	_	_
+38	καὶ	καί	CCONJ	c--------	_	35	cc	_	_
+39	ὁσίων	ὅσιος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	42	amod	_	_
+40	καὶ	καί	CCONJ	c--------	_	39	cc	_	_
+41	ἱερῶν	ἱερός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	39	conj	_	_
+42	ἐξηγητάς	ἐξηγητή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	36	nsubj	_	SpaceAfter=No
+43	,	,	PUNCT	u--------	_	58	punct	_	_
+44	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	46	det	_	_
+45	ἄλλοις	ἄλλος	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	46	nmod	_	_
+46	πολίταις	πολίτης	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	58	advmod	_	_
+47	ὥσπερ	ὥσπερ	ADV	d--------	_	50	mark	_	_
+48	εἰς	εἰς	ADP	r--------	_	49	case	_	_
+49	ἴσον	ἴσος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	50	obl	_	_
+50	κατέστησε	καθίστημι	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	_	SpaceAfter=No
+51	,	,	PUNCT	u--------	_	47	punct	_	_
+52	δόξῃ	δόξα	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	57	advmod	_	_
+53	μὲν	μέν	PART	g--------	_	58	advmod	_	_
+54	εὐπατριδῶν	εὐπατριδός	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	55	nmod	_	_
+55	χρείᾳ	χρεία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	58	obj	_	_
+56	δὲ	δέ	PART	g--------	_	58	cc	_	_
+57	γεωμόρων	γεωμόρος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	58	conj	_	_
+58	πλήθει	πλῆθος	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl	_	_
+59	δὲ	δέ	PART	g--------	_	58	cc	_	_
+60	δημιουργῶν	δημιουργέω	ADV	d--------	_	61	advmod	_	_
+61	ὑπερέχειν	ὑπερέχω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	58	conj	_	_
+62	δοκούντων	δοκέω	VERB	v-pppamg-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	61	xcomp	_	SpaceAfter=No
+63	.	.	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 2-2
+#sent_id = 50
+#text = ὅτι δὲ πρῶτος ἀπέκλινε πρὸς τὸν ἄχολον, ὡς Ἀριστοτέλης φησί, καὶ ἀφῆκε τὸ μοναρχεῖν, ἔοικε μαρτυρεῖν καὶ Ὅμηρος ἐν νεῶν καταλόγῳ μόνους Ἀθηναίους δῆμον προσαγορεὐσας.
+1	ὅτι	ὅτι	SCONJ	c--------	_	4	mark	_	_
+2	δὲ	δέ	PART	g--------	_	18	advmod	_	_
+3	πρῶτος	πρῶτος	ADJ	a-s---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	4	xcomp	_	_
+4	ἀπέκλινε	ἀποκλίνω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	_
+5	πρὸς	πρός	ADP	r--------	_	7	case	_	_
+6	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	det	_	_
+7	ἄχολον	ἄχολος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	9	punct	_	_
+9	ὡς	ὡς	SCONJ	c--------	_	11	mark	_	_
+10	Ἀριστοτέλης	Ἀριστοτέλη	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	φησί	φημί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	4	punct	_	_
+13	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
+14	ἀφῆκε	ἀφίημι	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+15	τὸ	ὁ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	μοναρχεῖν	μοναρχέω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	14	xcomp	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	4	punct	_	_
+18	ἔοικε	ἔοικα	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+19	μαρτυρεῖν	μαρτυρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	_
+20	καὶ	καί	CCONJ	c--------	_	18	cc	_	_
+21	Ὅμηρος	Ὅμηρος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+22	ἐν	ἐν	ADP	r--------	_	23	case	_	_
+23	νεῶν	ναῦς	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	19	obl	_	_
+24	καταλόγῳ	καταλόγος	VERB	v-srpemd-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	23	nmod	_	_
+25	μόνους	μόνος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	26	xcomp	_	_
+26	Ἀθηναίους	Ἀθήναιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	27	nmod	_	_
+27	δῆμον	δῆμος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
+28	προσαγορεὐσας	προσαγορεὐω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	advcl	_	SpaceAfter=No
+29	.	.	PUNCT	u--------	_	18	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 51
+#text = 3.
+1	3	3	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 52
+#text = Schol.
+1	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 53
+#text = in Plat.
+1	in	in	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Plat	Plat	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 54
+#text = Axioch.
+1	Axioch	Axioch	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 55
+#text = 371 D p.
+1	371	371	NUM	m--------	_	3	obj	_	_
+2	D	D	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 56
+#text = 465 ( cf.
+1	465	465	NUM	m--------	_	3	nummod	_	_
+2	(	(	PUNCT	u--------	_	1	punct	_	_
+3	cf	cf	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 57
+#text = Moeris att.
+1	Moeris	Moeris	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	att	att	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 58
+#text = p.
+1	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 59
+#text = 193, 16) s.
+1	193	193	NUM	m--------	_	5	obj	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	16	16	NUM	m--------	_	1	appos	_	SpaceAfter=No
+4	)	)	PUNCT	u--------	_	3	punct	_	_
+5	s	s	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	5	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 60
+#text = V. Ἀριστοτέλης’ AΡιστοἌV τοῦ ὅλου πλήθους διῃρημένου Ἀθήνησιν εἴς τε τοὺς γεωργοὺς καὶ τοὺς δημιουργοὺς φυλὰς αὐτῶν εἶναι τέσσαρας, τῶν δὲ φυλῶν ἑκάστης μοίρας εἶναι τρεῖς, ἅς τριττύας τε καλοῦσι καὶ φρατρίας, ἑκάστης δὲ τούτων τριάκοντα εἶναι γένη, τὸ δὲ γένος ἐν τριάκοντα ἕκαστον ἀνδρῶν συνεστάναι.
+1	V.	v.	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Ἀριστοτέλης	Ἀριστοτέλη	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+3	’	’	PUNCT	u--------	_	1	punct	_	_
+4	AΡιστοἌV	AΡιστοἌV	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	det	_	_
+6	ὅλου	ὅλος	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+7	πλήθους	πλῆθος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+8	διῃρημένου	διῃράω	VERB	v-srpeng-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	20	nmod	_	_
+9	Ἀθήνησιν	Ἀθήνην	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+10	εἴς	εἴς	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	_
+11	τε	τε	PART	g--------	_	9	cc	_	_
+12	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	det	_	_
+13	γεωργοὺς	γεωργός	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	_
+14	καὶ	καί	CCONJ	c--------	_	9	cc	_	_
+15	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	17	det	_	_
+16	δημιουργοὺς	δημιουργός	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	17	nmod	_	_
+17	φυλὰς	φυλαίνω	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	_
+18	αὐτῶν	αὐτός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+19	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	cop	_	_
+20	τέσσαρας	τέσσαρ	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	4	punct	_	_
+22	τῶν	ὁ	PRON	p-p---fg-	Case=Gen|Gender=Fem|Number=Plur	24	det	_	_
+23	δὲ	δέ	PART	g--------	_	4	cc	_	_
+24	φυλῶν	φυλέω	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
+25	ἑκάστης	ἕκαστος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	μοίρας	μοῖρα	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	conj	_	_
+27	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	26	cop	_	_
+28	τρεῖς	τρεῖς	NUM	m--------	_	26	nummod	_	SpaceAfter=No
+29	,	,	PUNCT	u--------	_	33	punct	_	_
+30	ἅς	ὅς	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	33	obj	_	_
+31	τριττύας	τριττύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	30	amod	_	_
+32	τε	τε	PART	g--------	_	33	advmod	_	_
+33	καλοῦσι	καλέω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+34	καὶ	καί	CCONJ	c--------	_	31	cc	_	_
+35	φρατρίας	φρατρία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	31	conj	_	SpaceAfter=No
+36	,	,	PUNCT	u--------	_	33	punct	_	_
+37	ἑκάστης	ἕκαστος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+38	δὲ	δέ	PART	g--------	_	33	cc	_	_
+39	τούτων	οὗτος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	40	advmod	_	_
+40	τριάκοντα	τριάκοντα	NUM	m--------	_	42	obj	_	_
+41	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	40	cop	_	_
+42	γένη	γένη	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	33	conj	_	SpaceAfter=No
+43	,	,	PUNCT	u--------	_	33	punct	_	_
+44	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	46	det	_	_
+45	δὲ	δέ	PART	g--------	_	33	cc	_	_
+46	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	51	nsubj	_	_
+47	ἐν	ἐν	ADP	r--------	_	49	case	_	_
+48	τριάκοντα	τριάκοντα	ADJ	a--------	_	51	advmod	_	_
+49	ἕκαστον	ἕκαστος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	46	nmod	_	_
+50	ἀνδρῶν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	48	nmod	_	_
+51	συνεστάναι	συνίστημι	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	33	conj	_	SpaceAfter=No
+52	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 61
+#text = τούτους δὲ τοὺς εἰς τὰ γένη τεταγμένους γεννήτας καλοῦσι.
+1	τούτους	οὗτος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+2	δὲ	δέ	PART	g--------	_	9	advmod	_	_
+3	τοὺς	ὁ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	det	_	_
+4	εἰς	εἰς	ADP	r--------	_	8	case	_	_
+5	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	det	_	_
+6	γένη	γένη	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+7	τεταγμένους	τάσσω	VERB	v-prpema-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	8	nmod	_	_
+8	γεννήτας	γεννήτης	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	_
+9	καλοῦσι	καλέω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	9	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 62
+#text = Lex.
+1	Lex	Lex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 63
+#text = Demosth.
+1	Demosth	Demosth	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 64
+#text = Patm.
+1	Patm	Patm	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 65
+#text = p.
+1	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 66
+#text = 152 ed.
+1	152	152	NUM	m--------	_	2	obj	_	_
+2	ed	ed	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 67
+#text = Sakkeliou s.
+1	Sakkeliou	Sakkeliou	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	s	s	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 68
+#text = v.
+1	v	v	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 69
+#text = γεννῆται:
+1	γεννῆται	τίγεννημι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 70
+#text = πάλαι τὸ τῶν Ἀθηναίων πλῆθος, πρὶν ἢ Κλεισθένη διοικήσασθαι τὰ περὶ τὰς Μά(, διῃρεῖτο εἰς γεωργοὺς καὶ δημιουργούς.
+1	πάλαι	πάλαι	ADV	d--------	_	17	advmod	_	_
+2	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+3	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	det	_	_
+4	Ἀθηναίων	Ἀθήναιος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+5	πλῆθος	πλῆθος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	πρὶν	πρίν	ADV	d--------	_	17	advmod	_	_
+8	ἢ	ἤ	CCONJ	c--------	_	9	advmod	_	_
+9	Κλεισθένη	Κλεισθένη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+10	διοικήσασθαι	διοικέω	VERB	v--anm---	Tense=Past|VerbForm=Inf|Voice=Mid	17	xcomp	_	_
+11	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	det	_	_
+12	περὶ	περί	ADP	r--------	_	14	case	_	_
+13	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	14	det	_	_
+14	Μά	Μα	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+15	(	(	PUNCT	u--------	_	17	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	15	punct	_	_
+17	διῃρεῖτο	διῃρέω	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+18	εἰς	εἰς	ADP	r--------	_	19	case	_	_
+19	γεωργοὺς	γεωργός	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	17	obl	_	_
+20	καὶ	καί	CCONJ	c--------	_	19	cc	_	_
+21	δημιουργούς	δημιουργός	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	19	conj	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	17	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 71
+#text = καὶ φυλαὶ τούτων ἦσαν 6 τῶν δὲ φυλῶν ἑκάστη μοίρας εἶχε ݲ, ἅς φατρίας καὶ τριττύας ἐκάλουν.
+1	καὶ	καί	CCONJ	c--------	_	2	advmod	_	_
+2	φυλαὶ	φυλή	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	τούτων	οὗτος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	advmod	_	_
+4	ἦσαν	εἰμί	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	6	6	NUM	m--------	_	0	root	_	_
+6	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	det	_	_
+7	δὲ	δέ	PART	g--------	_	5	cc	_	_
+8	φυλῶν	φυλέω	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	ἑκάστη	ἕκαστος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+10	μοίρας	μοῖρα	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	_
+11	εἶχε	ἔχω	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+12	ݲ	ݲ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	18	punct	_	_
+14	ἅς	ὅς	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	18	obj	_	_
+15	φατρίας	φατρία	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	14	amod	_	_
+16	καὶ	καί	CCONJ	c--------	_	15	cc	_	_
+17	τριττύας	τριττύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	conj	_	_
+18	ἐκάλουν	καλέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	12	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 72
+#text = τούτων δ’ ἑκάστη συνειστήκει ἐκ τριάκοντα Νῶν, καὶ γένος ἕκαστον ἄνδρας εἶχε τριάκοντα τοὺς εἰς τὰ γένη τεταγμένους,.
+1	τούτων	οὗτος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	obl	_	_
+2	δ	δ	ADP	r--------	_	1	case	_	SpaceAfter=No
+3	’	’	PUNCT	u--------	_	5	punct	_	_
+4	ἑκάστη	ἕκαστος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	συνειστήκει	συνειστήκω	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ἐκ	ἐκ	ADP	r--------	_	8	case	_	_
+7	τριάκοντα	τριάκοντα	NUM	m--------	_	8	nummod	_	_
+8	Νῶν	Νός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	5	punct	_	_
+10	καὶ	καί	CCONJ	c--------	_	5	cc	_	_
+11	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
+12	ἕκαστον	ἕκαστος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
+13	ἄνδρας	ἀνήρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
+14	εἶχε	ἔχω	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+15	τριάκοντα	τριάκοντα	NUM	m--------	_	20	nummod	_	_
+16	τοὺς	ὁ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	det	_	_
+17	εἰς	εἰς	ADP	r--------	_	18	case	_	_
+18	τὰ	ὁ	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	19	obl	_	_
+19	γένη	γένη	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	nsubj	_	_
+20	τεταγμένους	τάσσω	VERB	v-prpema-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	5	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 73
+#text = οἵτινες γεννῆται ἐκαλοῦντο, &amp;gt; ὧν αἱ ἱερωσύναι ἑκάστοις προσήκουσαι ἐκληροῦντο, οἷον καὶ Κήρυκες καὶ Ἐτεοβουτάδαι, ὡς ἱστορεῖ ἐν τῆ Ἀθηναίων πολιτείᾳ ’A., λέγων οὕτως·
+1	οἵτινες	ὅστις	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	γεννῆται	γεννήτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	xcomp	_	_
+3	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	5	punct	_	_
+5	&amp;gt;	&amp;gt;	PUNCT	u--------	_	3	punct	_	_
+6	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	11	obj	_	_
+7	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	8	det	_	_
+8	ἱερωσύναι	ἱερωσυνή	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+9	ἑκάστοις	ἑκάστοις	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	10	advmod	_	_
+10	προσήκουσαι	προσήκω	VERB	v-pppafn-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
+11	ἐκληροῦντο	κληρέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	20	punct	_	_
+13	οἷον	οἷος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+14	καὶ	καί	CCONJ	c--------	_	13	advmod	_	_
+15	Κήρυκες	κῆρυξ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+16	καὶ	καί	CCONJ	c--------	_	15	cc	_	_
+17	Ἐτεοβουτάδαι	Ἐτεοβουτάδης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	19	punct	_	_
+19	ὡς	ὡς	SCONJ	c--------	_	20	mark	_	_
+20	ἱστορεῖ	ἱστορέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+21	ἐν	ἐν	ADP	r--------	_	28	case	_	_
+22	τῆ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	28	det	_	_
+23	Ἀθηναίων	Ἀθήναιος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+24	πολιτείᾳ	πολιτεῖος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	28	advmod	_	_
+25	’	’	PUNCT	u--------	_	28	punct	_	SpaceAfter=No
+26	A.	A.	PUNCT	u--------	_	28	punct	_	SpaceAfter=No
+27	,	,	PUNCT	u--------	_	28	punct	_	_
+28	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	obl	_	_
+29	οὕτως	οὕτως	ADV	d--------	_	28	advmod	_	SpaceAfter=No
+30	·	·	PUNCT	u--------	_	28	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 74
+#text = φυλὰς δὲ αὐτῶν δυννενεμῆσθαι 8, ἀπομιμησαμένων τὰς ἐν τοῖς ἐνιαυτοῖς ὥρας, ἐκάστην δὲ διῃρῆσθαι εἰς τρία μέρη τῶν φυλῶν, ὅπως γένηται τὰ πάντα δώδεκα μέρη, καθάπερ οἱ μῆνες εἰς τὸν ἐνιαυτόν, καλεῖσθαι δὲ αὐτὰ τριττῦς καὶ φατρίας·
+1	φυλὰς	φυλαίνω	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+2	δὲ	δέ	PART	g--------	_	4	cc	_	_
+3	αὐτῶν	αὐτός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	δυννενεμῆσθαι	δυννενεμῆμαι	VERB	v--fnp---	Tense=Fut|VerbForm=Inf|Voice=Pass	0	root	_	_
+5	8	8	NUM	m--------	_	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	ἀπομιμησαμένων	ἀπομιμησαμένος	VERB	v-prpefg-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	4	advcl	_	_
+8	τὰς	ὁ	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	16	det	_	_
+9	ἐν	ἐν	ADP	r--------	_	11	case	_	_
+10	τοῖς	ὁ	DET	l-p---nd-	Case=Dat|Gender=Neut|Number=Plur	11	det	_	_
+11	ἐνιαυτοῖς	ἐνιαυτός	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	16	obl	_	_
+12	ὥρας	ὥρα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	11	punct	_	_
+14	ἐκάστην	κάσω	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	xcomp	_	_
+15	δὲ	δέ	PART	g--------	_	11	cc	_	_
+16	διῃρῆσθαι	διῃρῆμαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	7	xcomp	_	_
+17	εἰς	εἰς	ADP	r--------	_	18	case	_	_
+18	τρία	τρεῖς	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	16	obl	_	_
+19	μέρη	μέρα	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	7	amod	_	_
+20	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	21	det	_	_
+21	φυλῶν	φύλη	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	19	advmod	_	SpaceAfter=No
+22	,	,	PUNCT	u--------	_	23	punct	_	_
+23	ὅπως	ὅπως	SCONJ	c--------	_	24	mark	_	_
+24	γένηται	γίγνομαι	VERB	v3sasm---	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	7	advcl	_	_
+25	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	28	det	_	_
+26	πάντα	πᾶς	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	25	nmod	_	_
+27	δώδεκα	δώδεκα	NUM	m--------	_	28	nummod	_	_
+28	μέρη	μέρα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	24	obj	_	SpaceAfter=No
+29	,	,	PUNCT	u--------	_	28	punct	_	_
+30	καθάπερ	καθά	SCONJ	c--------	_	37	mark	_	_
+31	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	32	det	_	_
+32	μῆνες	μείς	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	37	nsubj	_	_
+33	εἰς	εἰς	ADP	r--------	_	35	case	_	_
+34	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	35	det	_	_
+35	ἐνιαυτόν	ἐνιαυτός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	37	obl	_	SpaceAfter=No
+36	,	,	PUNCT	u--------	_	35	punct	_	_
+37	καλεῖσθαι	καλεῖμαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	28	appos	_	_
+38	δὲ	δέ	PART	g--------	_	35	cc	_	_
+39	αὐτὰ	αὐτός	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	35	conj	_	_
+40	τριττῦς	τριττύς	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+41	καὶ	καί	CCONJ	c--------	_	40	cc	_	_
+42	φατρίας	φατρία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	40	conj	_	SpaceAfter=No
+43	·	·	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 75
+#text = εἰς δὲ τὴν φαττρίαν τριάκοντα γένη διακεκοσημῆσθαι, καθάπερ αἱ ἡμέραι εἰς τὸν μῆνα, τὸ δὲ γἐνος εἶναι τριάκοντα ἀνδρῶν.
+1	εἰς	εἰς	ADP	r--------	_	4	case	_	_
+2	δὲ	δέ	PART	g--------	_	7	advmod	_	_
+3	τὴν	ὁ	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+4	φαττρίαν	φαττρία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+5	τριάκοντα	τριάκοντα	NUM	m--------	_	4	nummod	_	_
+6	γένη	γένη	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+7	διακεκοσημῆσθαι	διακεκοσημῆμαι	VERB	v--rne---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	7	punct	_	_
+9	καθάπερ	καθά	SCONJ	c--------	_	11	mark	_	_
+10	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	det	_	_
+11	ἡμέραι	ἡμέρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+12	εἰς	εἰς	ADP	r--------	_	14	case	_	_
+13	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	det	_	_
+14	μῆνα	μείς	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	11	punct	_	_
+16	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	det	_	_
+17	δὲ	δέ	PART	g--------	_	11	cc	_	_
+18	γἐνος	γἐνος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+19	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	18	cop	_	_
+20	τριάκοντα	τριάκοντα	ADJ	a--------	_	21	nmod	_	_
+21	ἀνδρῶν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	7	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 76
+#text = Eadem doctrina ex eodem lexico.
+1	Eadem	Eadem	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	doctrina	doctrina	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+3	ex	ex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	eodem	eodem	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	lexico	lexico	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 77
+#text = Lex.
+1	Lex	Lex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 78
+#text = Bekk.
+1	Bekk	Bekk	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 79
+#text = quintum 227, 9 ( exscr.
+1	quintum	quintum	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+2	227	227	NUM	m--------	_	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	2	punct	_	_
+4	9	9	NUM	m--------	_	2	appos	_	_
+5	(	(	PUNCT	u--------	_	4	punct	_	_
+6	exscr	exscr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 80
+#text = Et.
+1	Et	Et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 81
+#text = Μ. 226, 13) γεννῆται τίνες εἰσίν:
+1	Μ.	μ.	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	226	226	NUM	m--------	_	6	mark	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	2	punct	_	_
+4	13	13	NUM	m--------	_	5	nummod	_	SpaceAfter=No
+5	)	)	PUNCT	u--------	_	2	punct	_	_
+6	γεννῆται	τίγεννημι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	advcl	_	_
+7	τίνες	τις	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	εἰσίν	εἰμί	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+9	:	:	PUNCT	u--------	_	8	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 82
+#text = γένος γένους cod.
+1	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+2	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	cod	cod	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 83
+#text = , corr.
+1	,	,	PUNCT	u--------	_	2	punct	_	_
+2	corr	corr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 84
+#text = Bekk.
+1	Bekk	Bekk	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 85
+#text = ) ἐστὶ σύστημα ἐκ τριάκοντα ἀνδρῶν συνεστός, οὗ οἱ μετέχοντες ἐκαλοῦντο γεννῆται, οὐ κατὰ γένος ἀλλήλοις προσήκοντες οὐδ’ ἀπὸ τοῦ αὐτοῦ αἴματος, ἀλλ’ ὥσπερ οἱ δημόται καὶ φράτορες ἐκαλοῦντο νόμων κοινωνίαν τινὰ ἔχοντες οὕτω καὶ οἱ γεννῆται συγγενικῶν ὀργίων καὶ θεῶν, ἀφ’ ὧν ὀργεῶνες ὠνομάσησαν.
+1	)	)	PUNCT	u--------	_	27	advcl	_	_
+2	ἐστὶ	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	σύστημα	σύστημα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+4	ἐκ	ἐκ	ADP	r--------	_	5	case	_	_
+5	τριάκοντα	τριάκοντα	ADJ	a--------	_	12	obl	_	_
+6	ἀνδρῶν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+7	συνεστός	συνεστος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	12	punct	_	_
+9	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	obj	_	_
+10	οἱ	ἕ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	12	advmod	_	_
+11	μετέχοντες	μετέχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	_
+12	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	27	advcl	_	_
+13	γεννῆται	τίγεννημι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	12	punct	_	_
+15	οὐ	οὐ	ADV	d--------	_	12	advmod	_	_
+16	κατὰ	κατά	ADP	r--------	_	17	case	_	_
+17	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+18	ἀλλήλοις	ἀλλήλων	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	19	obj	_	_
+19	προσήκοντες	προσήκω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	_
+20	οὐδ	οὐδ	ADP	r--------	_	25	case	_	SpaceAfter=No
+21	’	’	PUNCT	u--------	_	20	punct	_	_
+22	ἀπὸ	ἀπό	ADP	r--------	_	25	case	_	_
+23	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	25	det	_	_
+24	αὐτοῦ	αὐτός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+25	αἴματος	αἴμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+26	,	,	PUNCT	u--------	_	27	punct	_	_
+27	ἀλλ	ἀλλ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+28	’	’	PUNCT	u--------	_	48	punct	_	_
+29	ὥσπερ	ὥσπερ	ADV	d--------	_	31	advmod	_	_
+30	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	31	obj	_	_
+31	δημόται	δημότης	VERB	v3pfim---	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	48	advcl	_	_
+32	καὶ	καί	CCONJ	c--------	_	31	cc	_	_
+33	φράτορες	φράτωρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	34	nsubj	_	_
+34	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	31	conj	_	_
+35	νόμων	νόμος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
+36	κοινωνίαν	κοινωνία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	38	obj	_	_
+37	τινὰ	τις	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	36	nmod	_	_
+38	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	34	advcl	_	_
+39	οὕτω	οὕτως	ADV	d--------	_	34	advmod	_	_
+40	καὶ	καί	CCONJ	c--------	_	31	cc	_	_
+41	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	42	det	_	_
+42	γεννῆται	τίγεννημι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	31	conj	_	_
+43	συγγενικῶν	συγγενικός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	_
+44	ὀργίων	ὄργια	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	_
+45	καὶ	καί	CCONJ	c--------	_	44	cc	_	_
+46	θεῶν	θεός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	44	conj	_	SpaceAfter=No
+47	,	,	PUNCT	u--------	_	48	punct	_	_
+48	ἀφ	ἀφ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	SpaceAfter=No
+49	’	’	PUNCT	u--------	_	48	obj	_	_
+50	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	52	obj	_	_
+51	ὀργεῶνες	ὀργεών	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	52	nsubj	_	_
+52	ὠνομάσησαν	ὠνομάσησαν	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	49	acl	_	SpaceAfter=No
+53	.	.	PUNCT	u--------	_	27	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 86
+#text = Suid.
+1	Suid	Suid	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 87
+#text = I γεννῆται:
+1	I	I	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	γεννῆται	τίγεννημι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 88
+#text = οὐχ οἱ ἐκ γένους καὶ ἀφ’ αἵματος προσήκοντες, ἀλλ’ οἱ ἐκ τῶν γενῶν τῶν συννενεμημένων εἰς τὰς φρατρίας.
+1	οὐχ	οὐ	ADV	d--------	_	11	advmod	_	_
+2	οἱ	ἕ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	_
+3	ἐκ	ἐκ	ADP	r--------	_	4	case	_	_
+4	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	11	obj	_	_
+5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
+6	ἀφ	ἀφ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
+7	’	’	PUNCT	u--------	_	9	punct	_	_
+8	αἵματος	αἷμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	obj	_	_
+9	προσήκοντες	προσήκω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	4	punct	_	_
+11	ἀλλ	ἀλλ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	’	’	PUNCT	u--------	_	18	punct	_	_
+13	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	18	det	_	_
+14	ἐκ	ἐκ	ADP	r--------	_	16	case	_	_
+15	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	16	det	_	_
+16	γενῶν	γήν	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	18	obl	_	_
+17	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	16	det	_	_
+18	συννενεμημένων	συννενεμημένος	VERB	v-prpefg-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	4	appos	_	_
+19	εἰς	εἰς	ADP	r--------	_	21	case	_	_
+20	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	det	_	_
+21	φρατρίας	φρατρία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	11	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 89
+#text = οὗτοι δέ εἰσι, καθάπερ οἱ δημόται καὶ φράτορες,.
+1	οὗτοι	οὗτος	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	δέ	δέ	PART	g--------	_	3	advmod	_	_
+3	εἰσι	εἰμί	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	5	punct	_	_
+5	καθάπερ	καθά	SCONJ	c--------	_	9	mark	_	_
+6	οἱ	ἕ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
+7	δημόται	δημότης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+8	καὶ	καί	CCONJ	c--------	_	9	advmod	_	_
+9	φράτορες	φράτωρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 90
+#text = νόμῳ τινἶ ἔχοντες κοινωνίαν.
+1	νόμῳ	νόμος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	2	advmod	_	_
+2	τινἶ	τινἰμί	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	_
+4	κοινωνίαν	κοινωνία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 91
+#text = τὸ δέ γένος ἔχει ἄνδρας λ.
+1	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+2	δέ	δέ	PART	g--------	_	4	cc	_	_
+3	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	ἔχει	ἔχω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ἄνδρας	ἀνήρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+6	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 92
+#text = αἱ δὲ φρατρίαι ἐκαλοῦντο τριττῦς, ὅτι τεσσάρων φυλῶν οὑσῶν εἰς τρία ἑκάστην διεῖλον μέρη, τὰς μὲν φυλὰς τέσσαρας ποιήσαντες ἀπομιμησάμενοι τὰς τοῦ ἐνιαυτοῦ ὥρας, τὰς δὲ φρατρίας καὶ τριττῦς ιβ, καθάπερ οἱ μῆνες, τὰ 62 δὲ γένη λ ἐν add.
+1	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	3	det	_	_
+2	δὲ	δέ	PART	g--------	_	4	advmod	_	_
+3	φρατρίαι	φρατρία	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+4	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	τριττῦς	τριττύς	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	ὅτι	ὅτι	SCONJ	c--------	_	14	mark	_	_
+8	τεσσάρων	τεσσάρ	ADJ	a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+9	φυλῶν	φυλέω	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	10	obj	_	_
+10	οὑσῶν	οὑσός	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+11	εἰς	εἰς	ADP	r--------	_	12	case	_	_
+12	τρία	τρία	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	_
+13	ἑκάστην	ἕκαστος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+14	διεῖλον	διεῖλος	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+15	μέρη	μέρα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	14	punct	_	_
+17	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	20	det	_	_
+18	μὲν	μέν	PART	g--------	_	21	advmod	_	_
+19	φυλὰς	φυλαίνω	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	20	nmod	_	_
+20	τέσσαρας	τέσσαρ	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	obj	_	_
+21	ποιήσαντες	ποιέω	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	_
+22	ἀπομιμησάμενοι	ἀπομιμέω	VERB	v-papmmn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	21	advcl	_	_
+23	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	26	det	_	_
+24	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	25	det	_	_
+25	ἐνιαυτοῦ	ἐνιαυτός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+26	ὥρας	ὥρα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
+27	,	,	PUNCT	u--------	_	14	punct	_	_
+28	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	30	det	_	_
+29	δὲ	δέ	PART	g--------	_	14	cc	_	_
+30	φρατρίας	φρατρία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	33	obj	_	_
+31	καὶ	καί	CCONJ	c--------	_	30	cc	_	_
+32	τριττῦς	τριττύς	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	30	conj	_	_
+33	ιβ	ιβ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
+34	,	,	PUNCT	u--------	_	35	punct	_	_
+35	καθάπερ	καθά	SCONJ	c--------	_	45	mark	_	_
+36	οἱ	ἕ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	37	det	_	_
+37	μῆνες	μείς	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	45	nsubj	_	SpaceAfter=No
+38	,	,	PUNCT	u--------	_	39	punct	_	_
+39	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	43	obj	_	_
+40	62	62	NUM	m--------	_	39	nummod	_	_
+41	δὲ	δέ	PART	g--------	_	45	advmod	_	_
+42	γένη	γένη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	43	nsubj	_	_
+43	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	45	advcl	_	_
+44	ἐν	ἐν	ADP	r--------	_	45	advmod	_	_
+45	add	add	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
+46	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 93
+#text = vulg.
+1	vulg	vulg	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 94
+#text = ) ἑκάστῃ φρατρίᾳ, καθάπερ αἱ ἡμέραι, τξ ( τξε cod.
+1	)	)	PUNCT	u--------	_	11	punct	_	_
+2	ἑκάστῃ	ἑκαστάνω	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	3	advmod	_	_
+3	φρατρίᾳ	φρατρία	VERB	v-sppefd-	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	11	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	11	punct	_	_
+5	καθάπερ	καθά	SCONJ	c--------	_	11	mark	_	_
+6	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	7	det	_	_
+7	ἡμέραι	ἡμέρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	9	punct	_	_
+9	τξ	τξ	ADV	d--------	_	11	mark	_	_
+10	(	(	PUNCT	u--------	_	9	punct	_	_
+11	τξε	τξε	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+12	cod	cod	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	u--------	_	12	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 95
+#text = , corr.
+1	,	,	PUNCT	u--------	_	2	punct	_	_
+2	corr	corr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 96
+#text = Schol.
+1	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 97
+#text = Plat.
+1	Plat	Plat	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 98
+#text = Phileb.
+1	Phileb	Phileb	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 99
+#text = 30 D: γεννῆται δὲ οὐχ οἱ ἐκ γένους καὶ ἀφ’ αἵματος προσήκοντες, ἀλλ’ οἱ ἐκ τῶν γενῶν τῶν συννενεμημένων εἰς τὰς φρατρίας.
+1	30	30	NUM	m--------	_	2	punct	_	_
+2	D:	D:	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	γεννῆται	τίγεννημι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+4	δὲ	δέ	PART	g--------	_	2	cc	_	_
+5	οὐχ	οὐ	ADV	d--------	_	15	advmod	_	_
+6	οἱ	ἕ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	_
+7	ἐκ	ἐκ	ADP	r--------	_	8	case	_	_
+8	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	15	obj	_	_
+9	καὶ	καί	CCONJ	c--------	_	8	cc	_	_
+10	ἀφ	ἀφ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+11	’	’	PUNCT	u--------	_	13	punct	_	_
+12	αἵματος	αἷμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	13	obj	_	_
+13	προσήκοντες	προσήκω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	8	punct	_	_
+15	ἀλλ	ἀλλ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+16	’	’	PUNCT	u--------	_	22	punct	_	_
+17	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	22	det	_	_
+18	ἐκ	ἐκ	ADP	r--------	_	20	case	_	_
+19	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	20	det	_	_
+20	γενῶν	γήν	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	22	obl	_	_
+21	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	20	det	_	_
+22	συννενεμημένων	συννενεμημένος	VERB	v-prpefg-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	8	appos	_	_
+23	εἰς	εἰς	ADP	r--------	_	25	case	_	_
+24	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	25	det	_	_
+25	φρατρίας	φρατρία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	obl	_	SpaceAfter=No
+26	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 100
+#text = οὗτοι δὲ εἰσι, καθάπερ οἱ δημόται καὶ φράτορες νόμῳ τινὶ ἔχοντες κοινωνίαν.
+1	οὗτοι	οὗτος	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	δὲ	δέ	PART	g--------	_	3	advmod	_	_
+3	εἰσι	εἰμί	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	5	punct	_	_
+5	καθάπερ	καθά	SCONJ	c--------	_	9	mark	_	_
+6	οἱ	ἕ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
+7	δημόται	δημότης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+8	καὶ	καί	CCONJ	c--------	_	9	advmod	_	_
+9	φράτορες	φράτωρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	advcl	_	_
+10	νόμῳ	νόμος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
+11	τινὶ	τις	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	nmod	_	_
+12	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	nmod	_	_
+13	κοινωνίαν	κοινωνία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 101
+#text = τὸ δὲ γένος ἔχει ἄνδρας λ.
+1	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+2	δὲ	δέ	PART	g--------	_	4	advmod	_	_
+3	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	ἔχει	ἔχω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ἄνδρας	ἀνήρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+6	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
+7	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 102
+#text = αἱ δὲ φρατρίαι ἐκαλοῦντο τριττῦς, ὅτι τεσσάρων φυλῶν οὑσῶν εἰς τρία ἑκάστην διεῖλον μέρη, τὰς μὲν φυλὰς δ &amp;gt; κατὰ τὰς ὥρας τοῦ ἐνιαυτοῦ, τὰς δὲ φρατρίας καὶ τριττύας δυοκαίδεκα οἷον μῆνας, τὰ δὲ γένη λ ἐν ἑκάστῃ φρατρίᾳ, καθάπερ ἡμέρας τξ.
+1	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	3	det	_	_
+2	δὲ	δέ	PART	g--------	_	4	advmod	_	_
+3	φρατρίαι	φρατρία	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+4	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	τριττῦς	τριττύς	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	7	punct	_	_
+7	ὅτι	ὅτι	SCONJ	c--------	_	14	mark	_	_
+8	τεσσάρων	τεσσάρ	ADJ	a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+9	φυλῶν	φυλέω	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	10	obj	_	_
+10	οὑσῶν	οὑσός	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+11	εἰς	εἰς	ADP	r--------	_	12	case	_	_
+12	τρία	τρία	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	_
+13	ἑκάστην	ἕκαστος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+14	διεῖλον	διεῖλος	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+15	μέρη	μέρα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	14	punct	_	_
+17	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	19	det	_	_
+18	μὲν	μέν	PART	g--------	_	4	advmod	_	_
+19	φυλὰς	φυλαίνω	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+20	δ	δ	ADP	r--------	_	21	case	_	_
+21	&amp;gt;	&amp;gt;	PUNCT	u--------	_	4	obl	_	_
+22	κατὰ	κατά	ADP	r--------	_	24	case	_	_
+23	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	24	det	_	_
+24	ὥρας	ὥρα	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	obl	_	_
+25	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	26	det	_	_
+26	ἐνιαυτοῦ	ἐνιαυτός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	u--------	_	24	punct	_	_
+28	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	30	det	_	_
+29	δὲ	δέ	PART	g--------	_	24	cc	_	_
+30	φρατρίας	φρατρία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	24	conj	_	_
+31	καὶ	καί	CCONJ	c--------	_	24	cc	_	_
+32	τριττύας	τριττύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	35	nmod	_	_
+33	δυοκαίδεκα	δυοκαίδεκα	NUM	m--------	_	35	nummod	_	_
+34	οἷον	οἷος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	35	advmod	_	_
+35	μῆνας	μείς	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	24	conj	_	SpaceAfter=No
+36	,	,	PUNCT	u--------	_	4	punct	_	_
+37	τὰ	ὁ	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	40	obj	_	_
+38	δὲ	δέ	PART	g--------	_	4	cc	_	_
+39	γένη	γένη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	40	nsubj	_	_
+40	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+41	ἐν	ἐν	ADP	r--------	_	43	case	_	_
+42	ἑκάστῃ	ἕκαστος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	43	nmod	_	_
+43	φρατρίᾳ	φρατρία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	40	obl	_	SpaceAfter=No
+44	,	,	PUNCT	u--------	_	45	punct	_	_
+45	καθάπερ	καθά	SCONJ	c--------	_	47	mark	_	_
+46	ἡμέρας	ἡμέρα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	47	advmod	_	_
+47	τξ	τξ	ADV	d--------	_	40	advmod	_	SpaceAfter=No
+48	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 103
+#text = δωδεκάκις γὰρ λ τε.
+1	δωδεκάκις	δωδεκάκις	ADV	d--------	_	3	advmod	_	_
+2	γὰρ	γάρ	PART	g--------	_	3	advmod	_	_
+3	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	τε	τε	PART	g--------	_	3	cc	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 104
+#text = Adde lexicon quo Eustathius usus est, qui laudato Aelio Dionysio et altero simili lexico ( ἐν ἑτέρῳ δὲ ὁμοίῳ λεξικῷ) pergit p.
+1	Adde	Adde	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+2	lexicon	lexicon	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+3	quo	quo	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	Eustathius	Eustathius	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+5	usus	usus	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+6	est	est	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	2	punct	_	_
+8	qui	qui	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+9	laudato	laudato	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+10	Aelio	Aelio	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+11	Dionysio	Dionysio	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+12	et	et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+13	altero	altero	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+14	simili	simili	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+15	lexico	lexico	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	_
+16	(	(	PUNCT	u--------	_	24	advmod	_	_
+17	ἐν	ἐν	ADP	r--------	_	20	case	_	_
+18	ἑτέρῳ	ἕτερος	ADJ	a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	20	nmod	_	_
+19	δὲ	δέ	PART	g--------	_	24	advmod	_	_
+20	ὁμοίῳ	ὁμοῖος	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	23	obl	_	_
+21	λεξικῷ	λεξικός	ADJ	a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+22	)	)	PUNCT	u--------	_	20	punct	_	_
+23	pergit	pergit	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+24	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	24	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 105
+#text = 239, 37:
+1	239	239	NUM	m--------	_	3	nummod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	37	37	NUM	m--------	_	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	3	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 106
+#text = ἀλλαχοῦ δὲ ( scil.
+1	ἀλλαχοῦ	ἀλλαχέω	VERB	v2spme---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	_	_
+2	δὲ	δέ	PART	g--------	_	4	advmod	_	_
+3	(	(	PUNCT	u--------	_	4	advmod	_	_
+4	scil	scil	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 107
+#text = φέραται), ὅτι τεσσάρων οὐσῶν ποτε φυλῶν Ἀθήνησι πρὸς μίμησιν τῶν τοῦ ἐνιαυτοῦ ὡρῶν εἰς τρία ἑκάστην διεῖλον μέρῃ, ἤγουν εἰς φρατρίας, ὅ ἐστι τριττῦς δύδεκα, καθ’ ὁμοιότητα τῶν μηνῶν, ἑκάστην δὲ φρατρίαν εἰς γἐνη τριάκοντα, καθάπερ ἡμέραι τριακόσιοι ἑξήκοντα, ὅθεν καὶ ἦν τι σύστημα κοινωνικόν, οἱ γεννῆται, ὅ ἐστιν οἱ ἐκ τῶν γενῶν τῶν συννενεμημένων εἰς τὰς φρατρίας, ἤτοι τῶν ἐκ τοῦ αὐτοῦ γένους, καὶ ἦσαν οὖτοι καθάπερ οἱ δημόται καὶ οἱ φράτορες ἤδη δὲ καὶ οἱ πολῖται καὶ οἱ θιασῶται καὶ οἱ φυλέται καὶ οἱ λοχῖται καὶ οἱ ἐθνῖται καὶ οἱ δαιταλεῖς) νόμῳ τινὶ ( ieg.
+1	φέραται	φέρημι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	u--------	_	22	punct	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	4	punct	_	_
+4	ὅτι	ὅτι	SCONJ	c--------	_	19	mark	_	_
+5	τεσσάρων	τεσσάρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	22	nsubj	_	_
+6	οὐσῶν	οὐσέω	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	ποτε	ποτέ	PART	g--------	_	8	advmod	_	_
+8	φυλῶν	φυλέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	advcl	_	_
+9	Ἀθήνησι	Ἀθήνησι	ADV	d--------	_	8	advmod	_	_
+10	πρὸς	πρός	ADP	r--------	_	11	case	_	_
+11	μίμησιν	μίμησις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+12	τῶν	ὅς	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	14	det	_	_
+13	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	det	_	_
+14	ἐνιαυτοῦ	ἐνιαυτός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+15	ὡρῶν	ὡρός	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	εἰς	εἰς	ADP	r--------	_	17	case	_	_
+17	τρία	τρεῖς	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	22	obl	_	_
+18	ἑκάστην	ἕκαστος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	_
+19	διεῖλον	διεῖλος	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	_
+20	μέρῃ	μέρη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	22	advmod	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	20	punct	_	_
+22	ἤγουν	ἀγέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+23	εἰς	εἰς	ADP	r--------	_	24	case	_	_
+24	φρατρίας	φρατρία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
+25	,	,	PUNCT	u--------	_	28	punct	_	_
+26	ὅ	ὅς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	28	advmod	_	_
+27	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	_
+28	τριττῦς	τριττύς	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	acl	_	_
+29	δύδεκα	δύδεκα	NUM	m--------	_	28	nummod	_	SpaceAfter=No
+30	,	,	PUNCT	u--------	_	31	punct	_	_
+31	καθ	καθ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	SpaceAfter=No
+32	’	’	PUNCT	u--------	_	31	punct	_	_
+33	ὁμοιότητα	ὁμοιότης	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+34	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	35	det	_	_
+35	μηνῶν	μήνη	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	u--------	_	31	punct	_	_
+37	ἑκάστην	ἕκαστος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	39	nmod	_	_
+38	δὲ	δέ	PART	g--------	_	31	cc	_	_
+39	φρατρίαν	φρατρία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	31	conj	_	_
+40	εἰς	εἰς	ADP	r--------	_	41	case	_	_
+41	γἐνη	γἐνη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	39	nmod	_	_
+42	τριάκοντα	τριάκοντα	ADJ	a--------	_	41	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	u--------	_	41	punct	_	_
+44	καθάπερ	καθά	SCONJ	c--------	_	45	advmod	_	_
+45	ἡμέραι	ἡμέρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	41	appos	_	_
+46	τριακόσιοι	τριακόσιοι	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	45	nmod	_	_
+47	ἑξήκοντα	ἑξήκοντα	NUM	m--------	_	45	nummod	_	SpaceAfter=No
+48	,	,	PUNCT	u--------	_	49	punct	_	_
+49	ὅθεν	ὅθεν	ADV	d--------	_	45	amod	_	_
+50	καὶ	καί	CCONJ	c--------	_	49	advmod	_	_
+51	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	53	cop	_	_
+52	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	53	advmod	_	_
+53	σύστημα	σύστημα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	49	conj	_	_
+54	κοινωνικόν	κοινωνικός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	53	nmod	_	SpaceAfter=No
+55	,	,	PUNCT	u--------	_	57	punct	_	_
+56	οἱ	ἕ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	57	nmod	_	_
+57	γεννῆται	τίγεννημι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	53	acl	_	SpaceAfter=No
+58	,	,	PUNCT	u--------	_	60	punct	_	_
+59	ὅ	ὁ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	60	nsubj	_	_
+60	ἐστιν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	57	acl	_	_
+61	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	60	obj	_	_
+62	ἐκ	ἐκ	ADP	r--------	_	64	case	_	_
+63	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	64	det	_	_
+64	γενῶν	γήν	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	66	obl	_	_
+65	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	66	det	_	_
+66	συννενεμημένων	συννενεμημένος	VERB	v-prpemg-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	61	xcomp	_	_
+67	εἰς	εἰς	ADP	r--------	_	69	case	_	_
+68	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	69	det	_	_
+69	φρατρίας	φρατρία	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	66	obl	_	SpaceAfter=No
+70	,	,	PUNCT	u--------	_	61	punct	_	_
+71	ἤτοι	ἤτοι	PART	g--------	_	76	advmod	_	_
+72	τῶν	ὁ	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	76	nsubj	_	_
+73	ἐκ	ἐκ	ADP	r--------	_	76	case	_	_
+74	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	76	det	_	_
+75	αὐτοῦ	αὐτός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	76	nmod	_	_
+76	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	61	appos	_	SpaceAfter=No
+77	,	,	PUNCT	u--------	_	76	punct	_	_
+78	καὶ	καί	CCONJ	c--------	_	76	cc	_	_
+79	ἦσαν	εἰμί	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	80	cop	_	_
+80	οὖτοι	οὖτος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	111	advcl	_	_
+81	καθάπερ	καθά	SCONJ	c--------	_	80	advmod	_	_
+82	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	83	det	_	_
+83	δημόται	δημότης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	80	nsubj	_	_
+84	καὶ	καί	CCONJ	c--------	_	76	cc	_	_
+85	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	86	det	_	_
+86	φράτορες	φράτωρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	111	nsubj	_	_
+87	ἤδη	ἤδη	ADV	d--------	_	107	advmod	_	_
+88	δὲ	δέ	PART	g--------	_	107	advmod	_	_
+89	καὶ	καί	CCONJ	c--------	_	91	advmod	_	_
+90	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	det	_	_
+91	πολῖται	πολίτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	107	nsubj	_	_
+92	καὶ	καί	CCONJ	c--------	_	91	advmod	_	_
+93	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	94	det	_	_
+94	θιασῶται	θιασώτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	conj	_	_
+95	καὶ	καί	CCONJ	c--------	_	91	cc	_	_
+96	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	97	det	_	_
+97	φυλέται	φυλέτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	conj	_	_
+98	καὶ	καί	CCONJ	c--------	_	91	advmod	_	_
+99	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	100	det	_	_
+100	λοχῖται	λοχίτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	conj	_	_
+101	καὶ	καί	CCONJ	c--------	_	91	cc	_	_
+102	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	103	det	_	_
+103	ἐθνῖται	ἐθνῖμαι	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	conj	_	_
+104	καὶ	καί	CCONJ	c--------	_	91	cc	_	_
+105	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	106	det	_	_
+106	δαιταλεῖς	δαιταλέω	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	91	conj	_	SpaceAfter=No
+107	)	)	PUNCT	u--------	_	111	punct	_	_
+108	νόμῳ	νόμος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	107	advmod	_	_
+109	τινὶ	τις	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	111	iobj	_	_
+110	(	(	PUNCT	u--------	_	109	punct	_	_
+111	ieg	ieg	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	76	conj	_	SpaceAfter=No
+112	.	.	PUNCT	u--------	_	111	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 108
+#text = νόμων τινὰ) ἔχοντες κοινωνίαν.
+1	νόμων	νόμω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τινὰ	τις	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+3	)	)	PUNCT	u--------	_	4	iobj	_	_
+4	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	_
+5	κοινωνίαν	κοινωνία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 109
+#text = ἔχει δὲ, φησὶ, τὸ μὲν γένος ἄνδρας τριάκοντα, ἑκάστη Γε φατρία εἴτουν τριττὺς γένη τριάκοντα.
+1	ἔχει	ἔχω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	δὲ	δέ	PART	g--------	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	1	punct	_	_
+4	φησὶ	φημί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	4	punct	_	_
+6	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	det	_	_
+7	μὲν	μέν	PART	g--------	_	4	advmod	_	_
+8	γένος	γένος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+9	ἄνδρας	ἀνήρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
+10	τριάκοντα	τριάκοντα	NUM	m--------	_	9	nummod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	4	punct	_	_
+12	ἑκάστη	ἕκαστος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	_
+13	Γε	γε	PART	g--------	_	12	advmod	_	_
+14	φατρία	φατρία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	εἴτουν	εἴτους	VERB	v1siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	τριττὺς	τριττύς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nmod	_	_
+17	γένη	γένη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	_
+18	τριάκοντα	τριάκοντα	ADJ	a--------	_	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 110
+#text = Harpocr.
+1	Harpocr	Harpocr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 111
+#text = γεννῆται:
+1	γεννῆται	τίγεννημι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 112
+#text = οἱ τοῦ αὐτοῦ γένους κοινωνοῦντες.
+1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	det	_	_
+2	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	det	_	_
+3	αὐτοῦ	αὐτός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+4	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	5	obj	_	_
+5	κοινωνοῦντες	κοινωνέω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	5	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 113
+#text = διῃρημένων γὰρ ἁπάντων τῶν πολιτῶν κατὰ μέρη τὰ μὲν πρῶτα καὶ μέγιστα μέρη ἐκαλοῦντο φυλαί, ἑκάστη δὲ φυλὴ τριχῆ διᾐτητο καὶ ἐκαλεῖτο ἕκαστον μέρος τούτων τριττὺς καὶ φατρία.
+1	διῃρημένων	διῃρημένος	VERB	v-prpemg-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	14	advcl	_	_
+2	γὰρ	γάρ	PART	g--------	_	14	advmod	_	_
+3	ἁπάντων	ἅπας	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+4	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	det	_	_
+5	πολιτῶν	πολίτης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+6	κατὰ	κατά	ADP	r--------	_	7	case	_	_
+7	μέρη	μέρα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+8	τὰ	ὁ	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	det	_	_
+9	μὲν	μέν	PART	g--------	_	1	advmod	_	_
+10	πρῶτα	πρῶτος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	advmod	_	_
+11	καὶ	καί	CCONJ	c--------	_	10	cc	_	_
+12	μέγιστα	μέγας	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	nmod	_	_
+13	μέρη	μέρα	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	conj	_	_
+14	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+15	φυλαί	φυλή	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	14	xcomp	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	14	punct	_	_
+17	ἑκάστη	ἕκαστος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nmod	_	_
+18	δὲ	δέ	PART	g--------	_	14	cc	_	_
+19	φυλὴ	φυλή	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+20	τριχῆ	τριχής	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+21	διᾐτητο	διᾐτημι	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	conj	_	_
+22	καὶ	καί	CCONJ	c--------	_	21	cc	_	_
+23	ἐκαλεῖτο	καλέω	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	21	conj	_	_
+24	ἕκαστον	ἕκαστος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	nmod	_	_
+25	μέρος	μέρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+26	τούτων	οὗτος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+27	τριττὺς	τριττύς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	23	xcomp	_	_
+28	καὶ	καί	CCONJ	c--------	_	27	cc	_	_
+29	φατρία	φατρία	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	14	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 114
+#text = πάλιν δὲ τῶν φατριῶν ἑκάστη διῇρητο εἰς γένη λ, ἐξ ὧν αἱ ἱερωσύναι αἰ ἑκάστοις προσήκουσαι ἐκληροῦντο.
+1	πάλιν	πάλιν	ADV	d--------	_	6	advmod	_	_
+2	δὲ	δέ	PART	g--------	_	6	advmod	_	_
+3	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	4	det	_	_
+4	φατριῶν	φατρεῖς	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+5	ἑκάστη	ἕκαστος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	διῇρητο	διῇρημι	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	εἰς	εἰς	ADP	r--------	_	8	case	_	_
+8	γένη	γένη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	_
+9	λ	λ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	18	punct	_	_
+11	ἐξ	ἐκ	ADP	r--------	_	12	case	_	_
+12	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	18	obl	_	_
+13	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	14	det	_	_
+14	ἱερωσύναι	ἱερωσυνή	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+15	αἰ	αἰ	SCONJ	c--------	_	18	mark	_	_
+16	ἑκάστοις	ἑκάστοις	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	17	advmod	_	_
+17	προσήκουσαι	προσήκω	VERB	v-pppafn-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	_
+18	ἐκληροῦντο	κληρέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	6	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 115
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 116
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 117
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 118
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 119
+#text = .
+1	.	.	PUNCT	u--------	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 120
+#text = Ἰσαῖος δ’ ἐν τῷ περὶ τοῦ Ἀπολλοδώρου κλήρου τοὺς συγγενεῖς γεννήτας ὠνόμασε.
+1	Ἰσαῖος	Ἰσαῖος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+2	δ	δ	ADP	r--------	_	3	case	_	SpaceAfter=No
+3	’	’	PUNCT	u--------	_	13	obl	_	_
+4	ἐν	ἐν	ADP	r--------	_	9	case	_	_
+5	τῷ	ὁ	DET	l-s---md-	Case=Dat|Gender=Masc|Number=Sing	9	det	_	_
+6	περὶ	περί	ADP	r--------	_	8	case	_	_
+7	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	det	_	_
+8	Ἀπολλοδώρου	Ἀπολλόδωρος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	κλήρου	κλήρος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
+10	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	det	_	_
+11	συγγενεῖς	συγγενής	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
+12	γεννήτας	γεννήτης	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+13	ὠνόμασε	ὠνόμασε	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	u--------	_	13	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 121
+#text = οὐχ οἱ συγγενεῖς μέντοι ἁπλῶς καὶ οἱ ἐξ αἵματος γεννῆταί τε καὶ ἐκ τοῦ αὐτοῦ γένους ἐκαλοῦντο, ἀλλ’ οἱ ἐξ ἀρχῆς εἰς τὸ καλούμενα γένη κατανεμηθέντες.
+1	οὐχ	οὐ	ADV	d--------	_	3	advmod	_	_
+2	οἱ	ἕ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	det	_	_
+3	συγγενεῖς	συγγένω	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+4	μέντοι	μέντοι	PART	g--------	_	3	advmod	_	_
+5	ἁπλῶς	ἁπλῶς	ADV	d--------	_	3	advmod	_	_
+6	καὶ	καί	CCONJ	c--------	_	3	cc	_	_
+7	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	10	det	_	_
+8	ἐξ	ἐκ	ADP	r--------	_	9	case	_	_
+9	αἵματος	αἷμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+10	γεννῆταί	γεννῆτής	VERB	v3ppie---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+11	τε	τε	PART	g--------	_	10	advmod	_	_
+12	καὶ	καί	CCONJ	c--------	_	3	cc	_	_
+13	ἐκ	ἐκ	ADP	r--------	_	16	case	_	_
+14	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	16	det	_	_
+15	αὐτοῦ	αὐτός	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+16	γένους	γένος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	17	obl	_	_
+17	ἐκαλοῦντο	καλέω	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	3	punct	_	_
+19	ἀλλ	ἀλλ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+20	’	’	PUNCT	u--------	_	28	punct	_	_
+21	οἱ	ὁ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	28	obj	_	_
+22	ἐξ	ἐκ	ADP	r--------	_	23	case	_	_
+23	ἀρχῆς	ἀρχή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	26	obl	_	_
+24	εἰς	εἰς	ADP	r--------	_	26	case	_	_
+25	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	26	det	_	_
+26	καλούμενα	καλούμενα	VERB	v-pppena-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	21	xcomp	_	_
+27	γένη	γένη	VERB	v-sppafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	xcomp	_	_
+28	κατανεμηθέντες	κατανεμέω	VERB	v-pappmn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	_	SpaceAfter=No
+29	.	.	PUNCT	u--------	_	19	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 122
+#text = ( Epitomen exscr.
+1	(	(	PUNCT	u--------	_	2	punct	_	_
+2	Epitomen	Epitomen	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	exscr	exscr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 123
+#text = Suid.
+1	Suid	Suid	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 124
+#text = II).
+1	II)	II)	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 125
+#text = Harp.
+1	Harp	Harp	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 126
+#text = s.
+1	s	s	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 127
+#text = V. τριττύς:
+1	V.	v.	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τριττύς	τριττύς	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 128
+#text = τριττύς ἐστι τὸ τρίτον μέρος τῆς φυλῆς·
+1	τριττύς	τριττύς	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+2	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+4	τρίτον	τρίτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+5	μέρος	μέρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	_	_
+6	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	det	_	_
+7	φυλῆς	φυλή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	·	·	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 129
+#text = αὕτη γὰρ διᾐρηται εἰς τρία μέρη, τριττῦς καὶ ἔθνη καὶ φατρίας, ὥς φησιν ’A. ἐν τῇ Ἀθ.
+1	αὕτη	οὗτος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	γὰρ	γάρ	PART	g--------	_	3	advmod	_	_
+3	διᾐρηται	διᾐρω	VERB	v3sasm---	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	εἰς	εἰς	ADP	r--------	_	5	case	_	_
+5	τρία	τρεῖς	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	20	obl	_	_
+6	μέρη	μέρα	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	3	punct	_	_
+8	τριττῦς	τριττύς	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	καὶ	καί	CCONJ	c--------	_	5	advmod	_	_
+10	ἔθνη	ἔθνος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+11	καὶ	καί	CCONJ	c--------	_	5	cc	_	_
+12	φατρίας	φατρία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	14	punct	_	_
+14	ὥς	ὡς	SCONJ	c--------	_	15	mark	_	_
+15	φησιν	φημί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
+16	’	’	PUNCT	u--------	_	20	punct	_	SpaceAfter=No
+17	A.	A.	PUNCT	u--------	_	20	punct	_	_
+18	ἐν	ἐν	ADP	r--------	_	19	case	_	_
+19	τῇ	ὁ	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	20	obl	_	_
+20	Ἀθ	Ἀθ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+21	.	.	PUNCT	u--------	_	20	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 130
+#text = πολ.
+1	πολ	πολ	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 131
+#text = ( Epitomen exscr.
+1	(	(	PUNCT	u--------	_	2	punct	_	_
+2	Epitomen	Epitomen	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	exscr	exscr	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 132
+#text = Suid.
+1	Suid	Suid	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 133
+#text = I et Phot.
+1	I	I	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	et	et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+3	Phot	Phot	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No
+4	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 134
+#text = I, ex quo Et.
+1	I,	I,	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	nsubj	_	_
+2	ex	ex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+3	quo	quo	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	Et	Et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 135
+#text = gen.
+1	gen	gen	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 136
+#text = [ Sym.
+1	[	[	PUNCT	u--------	_	2	advmod	_	_
+2	Sym	Sym	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 137
+#text = , Et.
+1	,	,	PUNCT	u--------	_	2	punct	_	_
+2	Et	Et	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 138
+#text = M. 768, 12].
+1	M.	m.	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	768	768	NUM	m--------	_	4	nummod	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	2	punct	_	_
+4	12	12	NUM	m--------	_	1	advmod	_	SpaceAfter=No
+5	]	]	PUNCT	u--------	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 139
+#text = Cf.
+1	Cf	Cf	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 140
+#text = Lex.
+1	Lex	Lex	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 141
+#text = Beek.
+1	Beek	Beek	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 142
+#text = quint.
+1	quint	quint	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 143
+#text = ( BA 306, 24):
+1	(	(	PUNCT	u--------	_	2	punct	_	_
+2	BA	BA	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	306	306	NUM	m--------	_	5	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	2	punct	_	_
+5	24	24	NUM	m--------	_	6	nummod	_	SpaceAfter=No
+6	)	)	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	:	:	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 144
+#text = τριττύς·
+1	τριττύς	τριττύς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	·	·	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 145
+#text = τρίτον μέρος τῆς φυλῆς.
+1	τρίτον	τρίτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+2	μέρος	μήρ	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+4	φυλῆς	φυλή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 146
+#text = τριττύαρχοι·
+1	τριττύαρχοι	τριττύαρχω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	·	·	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 147
+#text = οἱ τῶν τριττύων ἄρχοντες.
+1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	det	_	_
+2	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	det	_	_
+3	τριττύων	τριττύς	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
+4	ἄρχοντες	ἄρχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 148
+#text = Phot.
+1	Phot	Phot	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 149
+#text = II τριττύς·
+1	II	II	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τριττύς	τριττύς	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	·	·	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 150
+#text = φυλῆς μέρος τρίτον, καὶ τρττύαρχος ὁ ἄρχων.
+1	φυλῆς	φυλή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+2	μέρος	μέρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	τρίτον	τρίτος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	2	punct	_	_
+5	καὶ	καί	CCONJ	c--------	_	2	cc	_	_
+6	τρττύαρχος	τρττύαρχος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+7	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
+8	ἄρχων	ἄρχω	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+9	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 151
+#text = Schol.
+1	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 152
+#text = Plat.
+1	Plat	Plat	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 153
+#text = Rep.
+1	Rep	Rep	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 154
+#text = 175 A: Ἀθήνησι δέκα μὲν ἦισαν φυλαί, διῂρητο δ’ τούτων εἰς τρία, εἰς τριττύας, εἰς ἔθνη, εἰς φρατρίαν.
+1	175	175	NUM	m--------	_	2	nummod	_	_
+2	A:	A:	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+3	Ἀθήνησι	Ἀθήνην	ADV	d--------	_	2	advmod	_	_
+4	δέκα	δέκα	NUM	m--------	_	6	obj	_	_
+5	μὲν	μέν	PART	g--------	_	6	advmod	_	_
+6	ἦισαν	ἦισαν	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+7	φυλαί	φυλαι	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	6	punct	_	_
+9	διῂρητο	διῂρημι	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	δ	δ	ADP	r--------	_	12	case	_	SpaceAfter=No
+11	’	’	PUNCT	u--------	_	10	punct	_	_
+12	τούτων	οὗτος	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
+13	εἰς	εἰς	ADP	r--------	_	14	case	_	_
+14	τρία	τρία	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	20	obl	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	18	punct	_	_
+16	εἰς	εἰς	ADP	r--------	_	17	case	_	_
+17	τριττύας	τριττύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	20	punct	_	_
+19	εἰς	εἰς	ADP	r--------	_	20	case	_	_
+20	ἔθνη	ἔθνος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	18	punct	_	_
+22	εἰς	εἰς	ADP	r--------	_	23	case	_	_
+23	φρατρίαν	φρατρία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	20	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 155
+#text = οἱ οὖν ἑκάστης τριττύος ἄρχοντες τριττύαρχοί τε καλοπυνται καὶ τρττυαρχοῦτσιν.
+1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	det	_	_
+2	οὖν	οὖν	PART	g--------	_	8	advmod	_	_
+3	ἑκάστης	ἕκαστος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+4	τριττύος	τριττύς	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	obj	_	_
+5	ἄρχοντες	ἄρχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	_
+6	τριττύαρχοί	τριττύαρχός	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	τε	τε	PART	g--------	_	8	advmod	_	_
+8	καλοπυνται	καλοπυμαι	VERB	v3ppie---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	καὶ	καί	CCONJ	c--------	_	8	cc	_	_
+10	τρττυαρχοῦτσιν	τρττυαρχοῦτσις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	8	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 156
+#text = Similiter Poll.
+1	Similiter	Similiter	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Poll	Poll	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 157
+#text = VIII 108.
+1	VIII	VIII	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	108	108	NUM	m--------	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 3-3
+#sent_id = 158
+#text = 111.
+1	111	111	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 159
+#text = Schol.
+1	Schol	Schol	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 160
+#text = Vatic.
+1	Vatic	Vatic	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 161
+#text = ad Eurip, Hipp.
+1	ad	ad	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Eurip	Eurip	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	1	punct	_	_
+4	Hipp	Hipp	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 162
+#text = 11:
+1	11	11	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 163
+#text = ’A. ἱστορεῖ ὅτι ἐλθὼν Θησεὺς εἰς Σκῦρον ἐπὶ κατασκοπὴν εἰκότως δοὰ τὴν Αἰγέως συγγένειαν ἐτελεύτησεν ὠσθεὶς κατὰ πετρῶν, φοβηθέντος τοῦ Λυκομήδους τοῦ βασιλεύοντος * * * Ἀθηναῖοι 81 μετὰ τὰ Μηδικὰ κατὰ μαντείαν ἀνελόντες τὰ ὸστᾶ αὐτοῦ ἔθαψαν.
+1	’	’	PUNCT	u--------	_	40	advmod	_	SpaceAfter=No
+2	A.	A.	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	40	advcl	_	_
+3	ἱστορεῖ	ἱστορέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	advcl	_	_
+4	ὅτι	ὅτι	SCONJ	c--------	_	16	mark	_	_
+5	ἐλθὼν	ἔρχομαι	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	_
+6	Θησεὺς	Θησεύς	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+7	εἰς	εἰς	ADP	r--------	_	8	case	_	_
+8	Σκῦρον	Σκῦρος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+9	ἐπὶ	ἐπί	ADP	r--------	_	10	case	_	_
+10	κατασκοπὴν	κατασκοπή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	εἰκότως	εἰκότως	ADV	d--------	_	16	advmod	_	_
+12	δοὰ	δοά	ADP	r--------	_	15	case	_	_
+13	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	det	_	_
+14	Αἰγέως	Αἰγεύς	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+15	συγγένειαν	συγγένεια	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+16	ἐτελεύτησεν	τελευτάω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	40	advcl	_	_
+17	ὠσθεὶς	ὠστίθημι	VERB	v-sappmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	_
+18	κατὰ	κατά	ADP	r--------	_	19	case	_	_
+19	πετρῶν	πετρός	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	21	punct	_	_
+21	φοβηθέντος	φοβηθέις	VERB	v-sappmg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	40	advcl	_	_
+22	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	23	det	_	_
+23	Λυκομήδους	Λυκομήδος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	40	obj	_	_
+24	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	23	det	_	_
+25	βασιλεύοντος	βασιλεύω	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+26	*	*	PUNCT	u--------	_	40	punct	_	_
+27	*	*	PUNCT	u--------	_	40	punct	_	_
+28	*	*	PUNCT	u--------	_	40	advmod	_	_
+29	Ἀθηναῖοι	Ἀθηναῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	40	nsubj	_	_
+30	81	81	NUM	m--------	_	29	nummod	_	_
+31	μετὰ	μετά	ADP	r--------	_	33	case	_	_
+32	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	33	det	_	_
+33	Μηδικὰ	Μηδικός	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	36	obl	_	_
+34	κατὰ	κατά	ADP	r--------	_	35	case	_	_
+35	μαντείαν	μαντεία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	33	nmod	_	_
+36	ἀνελόντες	ἀναιρέω	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	40	advcl	_	_
+37	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	38	det	_	_
+38	ὸστᾶ	ὸστῆ	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	40	obj	_	_
+39	αὐτοῦ	αὐτός	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	_
+40	ἔθαψαν	θάπτω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+41	.	.	PUNCT	u--------	_	40	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 164
+#text = Cetera fragmenta quae ad Aristotelis rem publicam Atheniensium a quibusdam relata sunt ( vid.
+1	Cetera	Cetera	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+2	fragmenta	fragmenta	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+3	quae	quae	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	ad	ad	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+5	Aristotelis	Aristotelis	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	rem	rem	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+7	publicam	publicam	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+8	Atheniensium	Atheniensium	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+9	a	a	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	nsubj	_	_
+10	quibusdam	quibusdam	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	nsubj	_	_
+11	relata	relata	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+12	sunt	sunt	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+13	(	(	PUNCT	u--------	_	14	obj	_	_
+14	vid	vid	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	u--------	_	5	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 165
+#text = Rose, ed Teubneriana, nos.
+1	Rose	Rose	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	ed	ed	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	Teubneriana	Teubneriana	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	1	punct	_	_
+6	nos	nos	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	u--------	_	1	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 166
+#text = 382, 386, 392, 394, 399, 401, 415, 456, cf.
+1	382	382	NUM	m--------	_	13	nummod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	386	386	NUM	m--------	_	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	1	punct	_	_
+5	392	392	NUM	m--------	_	1	appos	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	1	punct	_	_
+7	394	394	NUM	m--------	_	1	appos	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	1	punct	_	_
+9	399	399	NUM	m--------	_	1	appos	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	1	punct	_	_
+11	401	401	NUM	m--------	_	1	appos	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	1	punct	_	_
+13	415	415	NUM	m--------	_	17	obj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	13	punct	_	_
+15	456	456	NUM	m--------	_	13	appos	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	15	punct	_	_
+17	cf	cf	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	u--------	_	17	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 167
+#text = K- W 3 p.
+1	K-	K-	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	W	W	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	3	3	NUM	m--------	_	4	obj	_	_
+4	p	p	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	u--------	_	2	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 168
+#text = – 90) nunc videmus ad hunc libellum non pertinere;
+1	–	–	PUNCT	u--------	_	6	advmod	_	_
+2	90	90	NUM	m--------	_	1	nummod	_	SpaceAfter=No
+3	)	)	PUNCT	u--------	_	2	punct	_	_
+4	nunc	nunc	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+5	videmus	videmus	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+6	ad	ad	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+7	hunc	hunc	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+8	libellum	libellum	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	non	non	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+10	pertinere	pertinere	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+11	;	;	PUNCT	u--------	_	8	punct	_	_
+
+#newdoc = urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2
+#newpar = 4-4
+#sent_id = 169
+#text = neque causa amrlius exstare videtur cur hoc loco dehinc imprimantur.
+1	neque	neque	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+2	causa	causa	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+3	amrlius	amrlius	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	exstare	exstare	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+5	videtur	videtur	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	nsubj	_	_
+6	cur	cur	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+7	hoc	hoc	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+8	loco	loco	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	dehinc	dehinc	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+10	imprimantur	imprimantur	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	8	punct	_	_
+
