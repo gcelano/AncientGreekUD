@@ -1,0 +1,8 @@
+{
+ "model": "ancient_greek-proiel-ud-2.0-170801",
+ "acknowledgements": [
+  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
+  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
+ ],
+ "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg014.perseus-grc2\n#newpar = 1-5\n#sent_id = 1\n#text = μητέρα μοι πάντων τε θεῶν πάντων τʼ ἀνθρώπων οὔρεά τʼ ἠχήεντα καὶ ὑλήεντες ἔναυλοι.\n1\tμητέρα\tμήτηρ\tNOUN\tNb\tCase=Acc|Gender=Fem|Number=Sing\t7\tobj:dir\t_\t_\n2\tμοι\tἐγώ\tPRON\tPp\tCase=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs\t7\tiobj\t_\t_\n3\tπάντων\tπᾶς\tDET\tPx\tCase=Gen|Gender=Masc|Number=Plur\t8\tdet\t_\t_\n4\tτε\tτε\tCCONJ\tC-\t_\t7\tcc\t_\t_\n5\tθεῶν\tθεός\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t8\tnmod\t_\t_\n6\tπάντων\tπᾶς\tDET\tPx\tCase=Gen|Gender=Masc|Number=Plur\t5\tdet\t_\t_\n7\tτʼ\tτʼ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t0\troot\t_\t_\n8\tἀνθρώπων\tἄνθρωπος\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t1\tnmod\t_\t_\n9\tοὔρεά\tοὔρας\tADJ\tA-\tCase=Acc|Degree=Pos|Gender=Neut|Number=Plur\t10\tobj:dir\t_\t_\n10\tτʼ\tτʼ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t1\tacl\t_\t_\n11\tἠχήεντα\tἠχήεις\tVERB\tV-\tAspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act\t14\tadvcl\t_\t_\n12\tκαὶ\tκαί\tCCONJ\tC-\t_\t11\tcc\t_\t_\n13\tὑλήεντες\tὑλήεντες\tVERB\tV-\tCase=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act\t11\tconj\t_\t_\n14\tἔναυλοι\tἔναυλος\tADJ\tA-\tCase=Nom|Degree=Pos|Gender=Masc|Number=Plur\t10\tnsubj\t_\tSpaceAfter=No\n15\t.\t.\tPUNCT\t_\t_\t7\tcc\t_\t_\n\n"
+}

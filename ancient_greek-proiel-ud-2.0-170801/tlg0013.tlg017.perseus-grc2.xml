@@ -1,0 +1,8 @@
+{
+ "model": "ancient_greek-proiel-ud-2.0-170801",
+ "acknowledgements": [
+  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
+  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
+ ],
+ "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg017.perseus-grc2\n#newpar = 1-5\n#sent_id = 1\n#text = Κάστορα καὶ Πολυδεύκἐ ἀείσεο, Μοῦσα λίγεια, χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων.\n1\tΚάστορα\tΚάστορα\tPROPN\tNe\tCase=Acc|Gender=Neut|Number=Plur\t3\tobj:dir\t_\t_\n2\tκαὶ\tκαί\tCCONJ\tC-\t_\t1\tcc\t_\t_\n3\tΠολυδεύκἐ\tΠολυδεύκἐ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t9\tadvcl\t_\t_\n4\tἀείσεο\tἀείσω\tVERB\tV-\tMood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid\t1\tconj\t_\tSpaceAfter=No\n5\t,\t,\tPUNCT\t_\t_\t9\tadvmod\t_\t_\n6\tΜοῦσα\tΜέω\tPROPN\tNe\tCase=Acc|Gender=Neut|Number=Plur\t9\tobj:dir\t_\t_\n7\tλίγεια\tλίγεια\tNOUN\tNb\tCase=Acc|Gender=Neut|Number=Plur\t6\tappos\t_\tSpaceAfter=No\n8\t,\t,\tPUNCT\t_\t_\t9\tadvmod\t_\t_\n9\tχαίρετε\tχαίρω\tVERB\tV-\tMood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act\t0\troot\t_\tSpaceAfter=No\n10\t,\t,\tPUNCT\t_\t_\t9\tvocative\t_\t_\n11\tΤυνδαρίδαι\tΤυνδαρίδης\tNOUN\tNb\tCase=Nom|Gender=Masc|Number=Plur\t10\tappos\t_\tSpaceAfter=No\n12\t,\t,\tPUNCT\t_\t_\t11\tnmod\t_\t_\n13\tταχέων\tταχύς\tADJ\tA-\tCase=Gen|Degree=Pos|Gender=Masc|Number=Plur\t12\tadvcl\t_\t_\n14\tἐπιβήτορες\tἐπιβήτορες\tNUM\tMa\tCase=Nom|Gender=Masc|Number=Plur\t15\tnummod\t_\t_\n15\tἵππων\tἵππος\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t13\tnsubj\t_\tSpaceAfter=No\n16\t.\t.\tPUNCT\t_\t_\t13\tcop\t_\t_\n\n"
+}

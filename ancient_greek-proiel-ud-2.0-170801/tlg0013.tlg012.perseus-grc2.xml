@@ -1,0 +1,8 @@
+{
+ "model": "ancient_greek-proiel-ud-2.0-170801",
+ "acknowledgements": [
+  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
+  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
+ ],
+ "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg012.perseus-grc2\n#newpar = 1-5\n#sent_id = 1\n#text = Ἥρην ἀείδω χρυσόθρονον, ἣν τέκε Ῥείη, ἁζόμενοι τίουσιν ὁμῶς Διὶ τερπικεραύνῳ.\n1\tἭρην\tἭρα\tADJ\tA-\tCase=Acc|Degree=Cmp|Gender=Fem|Number=Sing\t3\tamod\t_\t_\n2\tἀείδω\tἀεοράω\tVERB\tV-\tMood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act\t10\tadvcl\t_\t_\n3\tχρυσόθρονον\tχρυσόθρονος\tNOUN\tNb\tCase=Acc|Gender=Fem|Number=Sing\t2\tobj:dir\t_\tSpaceAfter=No\n4\t,\t,\tPUNCT\t_\t_\t2\tiobj\t_\t_\n5\tἣν\tὅς\tPRON\tPr\tCase=Acc|Gender=Fem|Number=Sing|PronType=Rel\t6\tobj:dir\t_\t_\n6\tτέκε\tτέκε\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t4\tacl\t_\t_\n7\tῬείη\tῬείη\tPROPN\tNe\tCase=Nom|Gender=Fem|Number=Sing\t6\tnsubj\t_\tSpaceAfter=No\n8\t,\t,\tPUNCT\t_\t_\t10\tnsubj\t_\t_\n9\tἁζόμενοι\tἁζόμενοι\tVERB\tV-\tCase=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid\t10\tadvcl\t_\t_\n10\tτίουσιν\tτίω\tVERB\tV-\tMood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t0\troot\t_\t_\n11\tὁμῶς\tὁμῶς\tADV\tDf\tDegree=Pos\t10\tadvmod\t_\t_\n12\tΔιὶ\tΖεύς\tPROPN\tNe\tCase=Dat|Gender=Masc|Number=Sing\t10\tiobj\t_\t_\n13\tτερπικεραύνῳ\tτερπικεραύνος\tADJ\tA-\tCase=Dat|Degree=Pos|Gender=Masc|Number=Sing\t12\tamod\t_\tSpaceAfter=No\n14\t.\t.\tPUNCT\t_\t_\t10\tobj:dir\t_\t_\n\n"
+}
