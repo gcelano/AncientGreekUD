@@ -1,0 +1,35 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg018.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = Ἑρμῆν ἀείδω Κυλλήνιον, Ἀργειφόντην, αἰδοίη:
+1	Ἑρμῆν	Ἑρμῆς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	_
+2	ἀείδω	ἀεοράω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Κυλλήνιον	Κυλλήνιον	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	advcl	_	_
+5	Ἀργειφόντην	Ἀργειφόντης	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	det	_	_
+7	αἰδοίη	αἰδοία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	7	amod	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg018.perseus-grc2
+#newpar = 5-10
+#sent_id = 2
+#text = μακάρων δὲ θεῶν ἀλέεινεν ὅμιλον, καὶ σὺ μὲν οὕτω χαῖρε, Διὸς καὶ Μαιάδος υἱέ:
+1	μακάρων	μακάρω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	_
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	_
+3	θεῶν	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	iobj	_	_
+4	ἀλέεινεν	ἀλέεινεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ὅμιλον	ὅμιλος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	cc	_	_
+7	καὶ	καί	CCONJ	C-	_	5	cc	_	_
+8	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+9	μὲν	μέν	ADV	Df	_	11	discourse	_	_
+10	οὕτω	οὕτω(ς)	ADV	Df	_	11	advmod	_	_
+11	χαῖρε	χαίρω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	mark	_	_
+13	Διὸς	Ζεύς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	iobj	_	_
+14	καὶ	καί	CCONJ	C-	_	13	cc	_	_
+15	Μαιάδος	Μαιάς	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	_
+16	υἱέ	υἱός	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+17	:	:	PUNCT	_	_	16	xcomp	_	_
+

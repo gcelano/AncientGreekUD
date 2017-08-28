@@ -1,0 +1,47 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg027.perseus-grc2
+#newpar = 1-10
+#sent_id = 1
+#text = Ἄρτεμιν ἀείδω χρυσηλάκατον, κελαδεινήν, ἄγρῃ τερπομένη παγχρύσεα τόξα τιταίνει πάντη ἐπιστρέφεται θηρῶν ὀλέκουσα γενέθλην.
+1	Ἄρτεμιν	Ἄρτεμις	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	_
+2	ἀείδω	ἀεοράω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+3	χρυσηλάκατον	χρυσηλάκατος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	13	nsubj	_	_
+5	κελαδεινήν	κελαδεινή	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	advmod	_	_
+7	ἄγρῃ	ἄγρα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+8	τερπομένη	τερπομένη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	obj:dir	_	_
+9	παγχρύσεα	παγχρύσος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	_
+10	τόξα	τόξον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	11	obj:dir	_	_
+11	τιταίνει	τιταίνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
+12	πάντη	πάντος	ADJ	Mo	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+13	ἐπιστρέφεται	ἐπιστρέφω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	θηρῶν	θηρός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+15	ὀλέκουσα	ὀλέκω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+16	γενέθλην	γενέθλη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj:dir	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg027.perseus-grc2
+#newpar = 15-15
+#sent_id = 2
+#text = Μουσῶν καὶ Χαρίτων καλὸν χορὸν ἀρτυνέουσα.
+1	Μουσῶν	Μουσός	DET	Px	Case=Gen|Gender=Fem|Number=Plur	3	det	_	_
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	_
+3	Χαρίτων	Χάρις	PROPN	Ne	Case=Gen|Gender=Fem|Number=Plur	6	iobj	_	_
+4	καλὸν	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	_
+5	χορὸν	χορός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+6	ἀρτυνέουσα	ἀρτυνέω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg027.perseus-grc2
+#newpar = 20-20
+#sent_id = 3
+#text = ἀθανάτων βουλῇ τε καὶ ἔργμασιν ἔξοχ᾽ ἀρίστους.
+1	ἀθανάτων	ἄθανα	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	_
+2	βουλῇ	βουλή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+3	τε	τε	CCONJ	C-	_	2	cc	_	_
+4	καὶ	καί	CCONJ	C-	_	2	cc	_	_
+5	ἔργμασιν	ἔργμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	conj	_	_
+6	ἔξοχ᾽	ἔξοχ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ἀρίστους	ἀγαθός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	nsubj	_	_
+

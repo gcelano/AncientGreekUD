@@ -1,0 +1,53 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = αἰδοίην, χρυσοστέφανον, καλὴν Ἀφροδίτην ἀφρῷ ἔνι μαλακῷ:
+1	αἰδοίην	αἰδοία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	8	advmod	_	_
+3	χρυσοστέφανον	χρυσοστέφανος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	discourse	_	_
+5	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Ἀφροδίτην	Ἀφροδίτη	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	_
+7	ἀφρῷ	ἀφρός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+8	ἔνι	ἔνι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	μαλακῷ	μαλακός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	8	nsubj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 5-15
+#sent_id = 2
+#text = τὴν δὲ χρυσάμπυκες Ὧραι δειρῇ δ᾽ ἀμφ᾽ ἁπαλῇ καὶ στήθεσιν ἀργυφέοισιν ἦγον ἐς ἀθανάτους:
+1	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	_
+3	χρυσάμπυκες	χρυσάμπυξ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
+4	Ὧραι	ὥρα	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	appos	_	_
+5	δειρῇ	δειρός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+6	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+7	ἀμφ᾽	ἀμφ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
+8	ἁπαλῇ	ἁπαλή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	iobj	_	_
+9	καὶ	καί	CCONJ	C-	_	8	cc	_	_
+10	στήθεσιν	στήθεσις	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	8	conj	_	_
+11	ἀργυφέοισιν	ἀργυφέοὶς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
+12	ἦγον	ἄγω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	ἐς	εἰς	ADP	R-	_	14	case	_	_
+14	ἀθανάτους	ἀθάνατος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	12	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg006.perseus-grc2
+#newpar = 15-20
+#sent_id = 3
+#text = οἳ δ᾽ ἠσπάζοντο ἰδόντες νίκην τῷδε φέρεσθαι, ἐμὴν δ᾽ ἔντυνον ἀοιδήν.
+1	οἳ	ὅς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+3	ἠσπάζοντο	ἀσπάζομαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	ἰδόντες	ὁράω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	_
+5	νίκην	νίκη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	_
+6	τῷδε	ὅδε	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+7	φέρεσθαι	φέρω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	3	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	nsubj	_	_
+9	ἐμὴν	ἐμός	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	10	iobj	_	_
+10	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+11	ἔντυνον	ἔντυνος	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+12	ἀοιδήν	ἀοιδή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	cc	_	_
+

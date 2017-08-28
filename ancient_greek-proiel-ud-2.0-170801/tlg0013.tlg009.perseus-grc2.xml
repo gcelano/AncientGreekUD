@@ -1,8 +1,0 @@
-{
- "model": "ancient_greek-proiel-ud-2.0-170801",
- "acknowledgements": [
-  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
-  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
- ],
- "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg009.perseus-grc2\n#newpar = 1-1\n#sent_id = 1\n#text = Ἄρτεμιν ὕμνει, Μοῦσα, κασιγνήτην Ἑκάτοιο.\n1\tἌρτεμιν\tἌρτεμις\tPRON\tPp\tCase=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs\t2\tobj:dir\t_\t_\n2\tὕμνει\tὕμνω\tVERB\tV-\tMood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t0\troot\t_\tSpaceAfter=No\n3\t,\t,\tPUNCT\t_\t_\t2\txcomp\t_\t_\n4\tΜοῦσα\tΜέω\tPROPN\tNe\tCase=Acc|Gender=Neut|Number=Plur\t3\tobj:dir\t_\tSpaceAfter=No\n5\t,\t,\tPUNCT\t_\t_\t7\tadvmod\t_\t_\n6\tκασιγνήτην\tκασιγνήτης\tNOUN\tNb\tCase=Acc|Gender=Masc|Number=Sing\t7\txcomp\t_\t_\n7\tἙκάτοιο\tἙκάτομαι\tVERB\tV-\tMood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid\t4\tacl\t_\tSpaceAfter=No\n8\t.\t.\tPUNCT\t_\t_\t7\tvocative\t_\t_\n\n#newdoc = urn:cts:greekLit:tlg0013.tlg009.perseus-grc2\n#newpar = 5-5\n#sent_id = 2\n#text = ἧσται μιμνάζων ἑκατηβόλον ἰοχέαιραν.\n1\tἧσται\tἧσται\tNOUN\tNb\tCase=Nom|Gender=Masc|Number=Plur\t0\troot\t_\t_\n2\tμιμνάζων\tμιμνάζω\tVERB\tV-\tCase=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act\t1\tacl\t_\t_\n3\tἑκατηβόλον\tἑκατηβόλος\tADJ\tA-\tCase=Acc|Degree=Pos|Gender=Masc|Number=Sing\t4\tamod\t_\t_\n4\tἰοχέαιραν\tἰοχέαιρα\tNOUN\tNb\tCase=Acc|Gender=Fem|Number=Sing\t2\tobj:dir\t_\tSpaceAfter=No\n5\t.\t.\tPUNCT\t_\t_\t1\tdet\t_\t_\n\n"
-}

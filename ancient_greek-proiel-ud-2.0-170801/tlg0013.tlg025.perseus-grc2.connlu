@@ -1,0 +1,31 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg025.perseus-grc2
+#newpar = 1-1
+#sent_id = 1
+#text = μουσάων ἄρχωμαι Ἀπόλλωνός τε Διός τε·
+1	μουσάων	μουσάω	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	iobj	_	_
+2	ἄρχωμαι	ἄρχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	Ἀπόλλωνός	Ἀπόλλων	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+4	τε	τε	CCONJ	C-	_	3	cc	_	_
+5	Διός	Ζεύς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	_
+6	τε	τε	CCONJ	C-	_	3	cc	_	SpaceAfter=No
+7	·	·	PUNCT	_	_	3	conj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg025.perseus-grc2
+#newpar = 5-5
+#sent_id = 2
+#text = φίλωνται·
+1	φίλωνται	φίλωμαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+2	·	·	PUNCT	_	_	1	csubj:pass	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg025.perseus-grc2
+#newpar = 5-5
+#sent_id = 3
+#text = γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή.
+1	γλυκερή	γλυκερά	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	1	det	_	_
+3	ἀπὸ	ἀπό	ADP	R-	_	4	case	_	_
+4	στόματος	στόμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+5	ῥέει	ῥέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	αὐδή	αὐδή	ADV	Df	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	advmod	_	_
+

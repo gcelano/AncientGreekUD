@@ -1,0 +1,344 @@
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 1-1
+#sent_id = 1
+#text = Πένταθλον.
+1	Πένταθλον	Πένταθλος	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 1-1
+#sent_id = 2
+#text = Ἅλμα ποδὸς δίσκου τε βολὴ καὶ ἄκοντος ἐρωή καὶ δρόμος ἠδὲ πάλη·
+1	Ἅλμα	Ἅλμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+2	ποδὸς	πούς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	δίσκου	δίσκος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+4	τε	τε	CCONJ	C-	_	5	cc	_	_
+5	βολὴ	βολή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+6	καὶ	καί	CCONJ	C-	_	5	cc	_	_
+7	ἄκοντος	ἄκω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	_
+8	ἐρωή	ἐρωή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+9	καὶ	καί	CCONJ	C-	_	8	cc	_	_
+10	δρόμος	δρόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+11	ἠδὲ	ἠδέ	CCONJ	C-	_	8	cc	_	_
+12	πάλη	πάλη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+13	·	·	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 1-1
+#sent_id = 3
+#text = μία δ᾿ ἔπλετο πᾶσι τελευτή.
+1	μία	εἷς	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	δ᾿	δ᾿	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+3	ἔπλετο	τίπλημι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	_
+4	πᾶσι	πᾶς	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	_
+5	τελευτή	τελευτή	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 1-1
+#sent_id = 4
+#text = Ἅλμα πάλη δίσκευμα κοντὸς καὶ δρόμος.
+1	Ἅλμα	Ἅλμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	πάλη	πάλη	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	δίσκευμα	δίσκευμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	appos	_	_
+4	κοντὸς	κοντός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+5	καὶ	καί	CCONJ	C-	_	3	cc	_	_
+6	δρόμος	δρόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 5
+#text = Εἰς τοὺς ἐννέα λυρικούς.
+1	Εἰς	εἰς	ADP	R-	_	4	case	_	_
+2	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+3	ἐννέα	ἐννέα	NUM	Ma	_	4	nummod	_	_
+4	λυρικούς	λυρικοί	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 6
+#text = Ἐννέα τῶν πρώτων λυρικῶν πάτρην γενεήν τε μάνθανε, καὶ πατέρας καὶ διάλεκτον ἄθρει.
+1	Ἐννέα	ἐννέα	NUM	Ma	_	6	nummod	_	_
+2	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+3	πρώτων	πρῶτος	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+4	λυρικῶν	λυρικέω	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+5	πάτρην	πάτρα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	8	advcl	_	_
+6	γενεήν	γενεά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+7	τε	τε	CCONJ	C-	_	5	cc	_	_
+8	μάνθανε	μάνθανος	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	discourse	_	_
+10	καὶ	καί	CCONJ	C-	_	14	cc	_	_
+11	πατέρας	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	obj:dir	_	_
+12	καὶ	καί	CCONJ	C-	_	11	cc	_	_
+13	διάλεκτον	διάλεκτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	conj	_	_
+14	ἄθρει	ἄθρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	iobj	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 7
+#text = ὧν Μιτυληναῖος μὲν ἔην, γεραρώτερος ἄλλων Ἀλκαῖος πρότερος, ἠχικὸς Αἰολίδης.
+1	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	4	obj:dir	_	_
+2	Μιτυληναῖος	Μιτυληναῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+3	μὲν	μέν	ADV	Df	_	1	discourse	_	_
+4	ἔην	ἔης	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	2	acl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	iobj	_	_
+6	γεραρώτερος	γεραρώς	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	2	appos	_	_
+7	ἄλλων	ἄλλος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	iobj	_	_
+8	Ἀλκαῖος	Ἀλκαῖ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	πρότερος	πρότερος	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	conj	_	_
+11	ἠχικὸς	ἠχικός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	Αἰολίδης	Αἰολίδης	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	ccomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 8
+#text = ἣ δ᾿ ἐπὶ τῷ, ξυνὴν πάτρην φωνήν τε δαεῖσα Σαπφὼ, Κληῖδος καὶ πατρὸς Εὐρυγύου.
+1	ἣ	ὅς	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	2	nsubj	_	_
+2	δ᾿	δ᾿	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἐπὶ	ἐπί	ADP	R-	_	6	case	_	_
+4	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	det	_	_
+6	ξυνὴν	ξυνός	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+7	πάτρην	πάτρα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+8	φωνήν	φωνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	_
+9	τε	τε	CCONJ	C-	_	10	cc	_	_
+10	δαεῖσα	δαεῖσα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
+11	Σαπφὼ	Σαπφώ	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	appos	_	_
+13	Κληῖδος	Κληῖς	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+14	καὶ	καί	CCONJ	C-	_	13	cc	_	_
+15	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	conj	_	_
+16	Εὐρυγύου	Εὐρυγύος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	conj	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 9
+#text = Στησίχορος Σικελός·
+1	Στησίχορος	Στησίχωρ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Σικελός	Σικελος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	·	·	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 10
+#text = πάτρη δέ οἱ Ἱμέρα ἐστίν·
+1	πάτρη	πάτρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	δέ	δέ	ADV	Df	_	5	discourse	_	_
+3	οἱ	οὗ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	Ἱμέρα	Ἱμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	ἐστίν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	·	·	PUNCT	_	_	5	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 11
+#text = Εὐφήμου πατρὸς, Δωρικὸς ἁρμονίην.
+1	Εὐφήμου	Εὐφήμος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	_
+2	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	0	root	_	_
+4	Δωρικὸς	Δωρικός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	ἁρμονίην	ἁρμονία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	appos	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 12
+#text = Ἴβυκος Ἰταλὸς ἐκ Ρηγίου ἠὲ Μεσήνης Ἠελίδα πατρὸς, Δωρίδα δ᾿ ἡρμόσατο.
+1	Ἴβυκος	Ἴβυξ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+2	Ἰταλὸς	Ἰταλός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	ἐκ	ἐκ	ADP	R-	_	4	case	_	_
+4	Ρηγίου	Ρήγιον	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+5	ἠὲ	ἠέ	CCONJ	C-	_	4	cc	_	_
+6	Μεσήνης	Μεσήνη	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
+7	Ἠελίδα	Ἠελίς	PROPN	Ne	_	12	nsubj	_	_
+8	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	advcl	_	_
+10	Δωρίδα	Δωρίς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	obj:dir	_	_
+11	δ᾿	δ᾿	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+12	ἡρμόσατο	ἁρμόζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 13
+#text = Παρθενίου δὲ πατρὸς λιγυρὸς πάις ἠετιήου εἴδει μελπόμενος, Τήιος Ἀνακρέων.
+1	Παρθενίου	Παρθενίας	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	_
+3	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	λιγυρὸς	λιγυρός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	πάις	πάις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	ἠετιήου	ἠετιήος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	εἴδει	εἶδος	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	μελπόμενος	μελπόμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	7	advcl	_	_
+10	Τήιος	Τήιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	iobj	_	_
+11	Ἀνακρέων	Ἀνακρεύς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	appos	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 14
+#text = Πίνδαρος ἦν Θηβαῖος, ἀτὰρ πατρὸς Σκοπελίνου, Δώριον αἰνήσας ἁρμονίην ἐπέων.
+1	Πίνδαρος	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	Θηβαῖος	Θηβαῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	ccomp	_	_
+5	ἀτὰρ	ἀτάρ	ADV	Df	_	4	discourse	_	_
+6	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+7	Σκοπελίνου	Σκοπελίνος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	6	appos	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	det	_	_
+9	Δώριον	Δώριον	PROPN	Ne	Case=Acc|Gender=Neut|Number=Sing	10	obj:dir	_	_
+10	αἰνήσας	αἰνέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
+11	ἁρμονίην	ἁρμονία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+12	ἐπέων	ἔπος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 15
+#text = ἠδὲ Σιμωνίδεω Κείου Δωριστὶ λαλοῦντος τὸν πατέρ᾿ αἰνήσας ἴσθι Λεωπρεπέα.
+1	ἠδὲ	ἠδέ	CCONJ	C-	_	7	cc	_	_
+2	Σιμωνίδεω	Σιμωνίδης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Κείου	Κεῖος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Δωριστὶ	Δωριστί	ADV	Df	_	5	advmod	_	_
+5	λαλοῦντος	λαλέω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	πατέρ᾿	πατέρ᾿	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	αἰνήσας	αἰνέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+9	ἴσθι	εἰμί#1	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	Λεωπρεπέα	Λεωπρεπεύς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 16
+#text = ἶσα δαεὶς καὶ Κεῖος ἐὼν γενεῇ μελοποιὸς Μίλωνος πατέρος ἔπλετο Βακχυλίδης.
+1	ἶσα	ἶσα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	_
+2	δαεὶς	δαείς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+3	καὶ	καί	CCONJ	C-	_	2	cc	_	_
+4	Κεῖος	Κεῖος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+5	ἐὼν	εἰμί#1	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	cop	_	_
+6	γενεῇ	γενεά	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+7	μελοποιὸς	μελοποιός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	_
+8	Μίλωνος	Μίλων	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	πατέρος	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	iobj	_	_
+10	ἔπλετο	τίπλημι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl	_	_
+11	Βακχυλίδης	Βακχυλίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 17
+#text = Ἀλκμὰν ἐν Λυδοῖσι μέγα πρέπει·
+1	Ἀλκμὰν	Ἀλκμάν	PROPN	Ne	_	5	nsubj	_	_
+2	ἐν	ἐν	ADP	R-	_	3	case	_	_
+3	Λυδοῖσι	Λυδός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	_
+4	μέγα	μέγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+5	πρέπει	πρέπω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	·	·	PUNCT	_	_	5	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 18
+#text = ἀλλὰ Δάμαντος ἐστὶ καὶ ἐκ Σπάρτης, Δωρίδος ἁρμονίης.
+1	ἀλλὰ	ἀλλά	CCONJ	C-	_	2	cc	_	_
+2	Δάμαντος	Δάμας	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἐστὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	καὶ	καί	CCONJ	C-	_	2	cc	_	_
+5	ἐκ	ἐκ	ADP	R-	_	6	case	_	_
+6	Σπάρτης	Σπάρτη	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	vocative	_	_
+8	Δωρίδος	Δωρίς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	ἁρμονίης	ἁρμονία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	appos	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 19
+#text = Λυρικοὶ ποιηταὶ μουσικῶν ᾀσμάτων ἐννέα·
+1	Λυρικοὶ	Λυρικοί	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	ποιηταὶ	ποιητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	appos	_	_
+3	μουσικῶν	μουσικός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
+4	ᾀσμάτων	ᾀσμάτων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+5	ἐννέα	ἐννέα	NUM	Ma	_	2	nummod	_	SpaceAfter=No
+6	·	·	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 20
+#text = ἐννέα δὲ καὶ αἱ καθ᾿ ἡμᾶς τῶν θείων ᾀσμάτων ὠδαί.
+1	ἐννέα	ἐννέα	NUM	Ma	_	5	obj:dir	_	_
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	_
+3	καὶ	καί	CCONJ	C-	_	1	cc	_	_
+4	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+5	καθ᾿	καθ᾿	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	obj:dir	_	_
+7	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	9	det	_	_
+8	θείων	θεῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	_
+9	ᾀσμάτων	ᾀσμάτων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+10	ὠδαί	ὠδής	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 21
+#text = | τὰ δὲ ὀνόματα τῶν προειρημένων λυρικῶν εἰσὶ τάδε·
+1	|	|	SYM	_	_	8	advmod	_	_
+2	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
+3	δὲ	δέ	ADV	Df	_	8	discourse	_	_
+4	ὀνόματα	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+6	προειρημένων	προειρημένω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	nmod	_	_
+7	λυρικῶν	λυρικός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+8	εἰσὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	τάδε	ὅδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	10	obj:dir	_	SpaceAfter=No
+10	·	·	PUNCT	_	_	8	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 22
+#text = Ἀλκμὰν Ἀλκαῖος Σαπφὼ Στησίχορος Ἴβυκος Ἀνακρέων Σιμωνίδης Βακχυλίδης καὶ Πίνδαρος.
+1	Ἀλκμὰν	Ἀλκμάν	PROPN	Ne	_	11	nsubj	_	_
+2	Ἀλκαῖος	Ἀλκαῖ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Σαπφὼ	Σαπφώ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	_
+4	Στησίχορος	Στησίχωρ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Ἴβυκος	Ἴβυξ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
+6	Ἀνακρέων	Ἀνακρεύς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Σιμωνίδης	Σιμωνίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+8	Βακχυλίδης	Βακχυλίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	καὶ	καί	CCONJ	C-	_	7	cc	_	_
+10	Πίνδαρος	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 23
+#text = Ἐννέα δὲ οἱ λυρικοί·
+1	Ἐννέα	ἐννέα	NUM	Ma	_	4	nummod	_	_
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	_
+3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	λυρικοί	λυρικός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
+5	·	·	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1
+#newpar = 2-2
+#sent_id = 24
+#text = Ἀλκαῖος Σαπφὼ Στησίχορος Ἴβυκος Βακχυλίδης Σιμωνίδης Ἀλκμὰν Ἀνακρέων καὶ Πίνδαρος.
+1	Ἀλκαῖος	Ἀλκαῖ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	iobj	_	_
+2	Σαπφὼ	Σαπφώ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+3	Στησίχορος	Στησίχωρ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Ἴβυκος	Ἴβυξ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	appos	_	_
+5	Βακχυλίδης	Βακχυλίδης	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4	appos	_	_
+6	Σιμωνίδης	Σιμωνίδης	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	Ἀλκμὰν	Ἀλκμάν	PROPN	Ne	_	6	appos	_	_
+8	Ἀνακρέων	Ἀνακρεύς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	καὶ	καί	CCONJ	C-	_	1	cc	_	_
+10	Πίνδαρος	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	0	root	_	_
+

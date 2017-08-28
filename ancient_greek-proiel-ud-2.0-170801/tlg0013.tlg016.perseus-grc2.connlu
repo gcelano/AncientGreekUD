@@ -1,0 +1,29 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg016.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = ἰητῆρα νόσων Ἀσκληπιὸν ἄρχομʼ ἀείδειν, καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ·
+1	ἰητῆρα	ἰητήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	_
+2	νόσων	νόσος	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	Ἀσκληπιὸν	Ἀσκληπιός	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	_
+4	ἄρχομʼ	ἄρχομʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	ἀείδειν	ἀείδω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	discourse	_	_
+7	καὶ	καί	ADV	Df	_	11	advmod	_	_
+8	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+9	μὲν	μέν	ADV	Df	_	11	discourse	_	_
+10	οὕτω	οὕτω(ς)	ADV	Df	_	11	advmod	_	_
+11	χαῖρε	χαίρω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	discourse	_	_
+13	ἄναξ	ἄναξ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	SpaceAfter=No
+14	·	·	PUNCT	_	_	11	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg016.perseus-grc2
+#newpar = 5-5
+#sent_id = 2
+#text = λίτομαι δέ σʼ ἀοιδῇ.
+1	λίτομαι	λίτω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	_
+2	δέ	δέ	ADV	Df	_	3	discourse	_	_
+3	σʼ	σʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἀοιδῇ	ἀοιδέω	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	obj:dir	_	_
+

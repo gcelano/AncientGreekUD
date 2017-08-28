@@ -1,0 +1,21 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg017.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = Κάστορα καὶ Πολυδεύκἐ ἀείσεο, Μοῦσα λίγεια, χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων.
+1	Κάστορα	Κάστορα	PROPN	Ne	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	_
+2	καὶ	καί	CCONJ	C-	_	1	cc	_	_
+3	Πολυδεύκἐ	Πολυδεύκἐ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+4	ἀείσεο	ἀείσω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	advmod	_	_
+6	Μοῦσα	Μέω	PROPN	Ne	Case=Acc|Gender=Neut|Number=Plur	9	obj:dir	_	_
+7	λίγεια	λίγεια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	appos	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	advmod	_	_
+9	χαίρετε	χαίρω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	vocative	_	_
+11	Τυνδαρίδαι	Τυνδαρίδης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	appos	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	nmod	_	_
+13	ταχέων	ταχύς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	12	advcl	_	_
+14	ἐπιβήτορες	ἐπιβήτορες	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	15	nummod	_	_
+15	ἵππων	ἵππος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	13	cop	_	_
+

@@ -1,8 +1,0 @@
-{
- "model": "ancient_greek-proiel-ud-2.0-170801",
- "acknowledgements": [
-  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
-  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
- ],
- "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg022.perseus-grc2\n#newpar = 1-5\n#sent_id = 1\n#text = ἀμφὶ Ποσειδάωτα, μέγαν θεόν, ἄρχομʼ ἀείδειν, ἵππων τε δμητῆρʼ ἔμεναι σωτῆρά τε νηῶν.\n1\tἀμφὶ\tἀμφί\tADP\tR-\t_\t2\tcase\t_\t_\n2\tΠοσειδάωτα\tΠοσειδάως\tNOUN\tNb\tCase=Acc|Gender=Masc|Number=Sing\t7\tobl\t_\tSpaceAfter=No\n3\t,\t,\tPUNCT\t_\t_\t7\tadvmod\t_\t_\n4\tμέγαν\tμέγας\tADJ\tA-\tCase=Acc|Degree=Pos|Gender=Masc|Number=Sing\t5\tamod\t_\t_\n5\tθεόν\tθεός\tNOUN\tNb\tCase=Acc|Gender=Masc|Number=Sing\t7\tobj:dir\t_\tSpaceAfter=No\n6\t,\t,\tPUNCT\t_\t_\t7\tcc\t_\t_\n7\tἄρχομʼ\tἄρχομʼ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t0\troot\t_\t_\n8\tἀείδειν\tἀείδω\tVERB\tV-\tTense=Pres|VerbForm=Inf|Voice=Act\t7\tccomp\t_\tSpaceAfter=No\n9\t,\t,\tPUNCT\t_\t_\t12\tnsubj\t_\t_\n10\tἵππων\tἵππος\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t13\tiobj\t_\t_\n11\tτε\tτε\tCCONJ\tC-\t_\t12\tcc\t_\t_\n12\tδμητῆρʼ\tδμητῆρʼ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t8\tccomp\t_\t_\n13\tἔμεναι\tἔμεναι\tVERB\tV-\tAspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act\t12\txcomp\t_\t_\n14\tσωτῆρά\tσωτῆρον\tNOUN\tNb\tCase=Acc|Gender=Neut|Number=Plur\t12\tobj:dir\t_\t_\n15\tτε\tτε\tCCONJ\tC-\t_\t14\tcc\t_\t_\n16\tνηῶν\tνηή\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t14\tnmod\t_\tSpaceAfter=No\n17\t.\t.\tPUNCT\t_\t_\t7\tcc\t_\t_\n\n"
-}

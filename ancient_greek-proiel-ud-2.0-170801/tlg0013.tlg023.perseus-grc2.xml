@@ -1,8 +1,0 @@
-{
- "model": "ancient_greek-proiel-ud-2.0-170801",
- "acknowledgements": [
-  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
-  "http://ufal.mff.cuni.cz/udpipe/users-manual#universal_dependencies_20_models_acknowledgements"
- ],
- "result": "#newdoc = urn:cts:greekLit:tlg0013.tlg023.perseus-grc2\n#newpar = 1-4\n#sent_id = 1\n#text = Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον, ἵληθʼ, εὐρύοπα Κρονίδη, κύδιστε μέγιστε.\n1\tΖῆνα\tΖῆν\tPROPN\tNe\tCase=Acc|Gender=Masc|Number=Sing\t11\tobj:dir\t_\t_\n2\tθεῶν\tθεός\tNOUN\tNb\tCase=Gen|Gender=Masc|Number=Plur\t1\tnmod\t_\t_\n3\tτὸν\tὁ\tDET\tS-\tCase=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem\t4\tdet\t_\t_\n4\tἄριστον\tἀγαθός\tADJ\tA-\tCase=Acc|Degree=Sup|Gender=Masc|Number=Sing\t5\tobj:dir\t_\t_\n5\tἀείσομαι\tἀείσω\tVERB\tV-\tMood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid\t1\tacl\t_\t_\n6\tἠδὲ\tἠδέ\tCCONJ\tC-\t_\t4\tcc\t_\t_\n7\tμέγιστον\tμέγας\tADJ\tA-\tCase=Acc|Degree=Sup|Gender=Neut|Number=Sing\t4\tconj\t_\tSpaceAfter=No\n8\t,\t,\tPUNCT\t_\t_\t11\tmark\t_\t_\n9\tἵληθʼ\tἵληθʼ\tVERB\tV-\tAspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t11\tadvcl\t_\tSpaceAfter=No\n10\t,\t,\tPUNCT\t_\t_\t11\tadvmod\t_\t_\n11\tεὐρύοπα\tεὐρύοπος\tVERB\tV-\tAspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act\t0\troot\t_\t_\n12\tΚρονίδη\tΚρονίδης\tPROPN\tNe\tCase=Gen|Gender=Masc|Number=Sing\t11\tiobj\t_\tSpaceAfter=No\n13\t,\t,\tPUNCT\t_\t_\t15\tcop\t_\t_\n14\tκύδιστε\tκύδιστε\tADV\tDf\t_\t15\tadvmod\t_\t_\n15\tμέγιστε\tμέγιστος\tADJ\tA-\tCase=Voc|Degree=Sup|Gender=Masc|Number=Sing\t11\tadvcl\t_\tSpaceAfter=No\n16\t.\t.\tPUNCT\t_\t_\t15\tcop\t_\t_\n\n"
-}

@@ -1,0 +1,900 @@
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 1
+#text = ANONYMI LONDINENSIS FRAGMENTA ol οἱ γ( ὰρ) προθυμίᾳ γι( νόμενοι) πρὸς τὸ διαχωρῆσαι, καταλαμβανόμενοι δὲ ἐν ἀγορᾶι ἢ ἐν ἀνεπιηδείοις, εἶτα συσχόντες ἐπὶ πλεῖον, οὐκέτι διαχωρο( ῦσιν) ἢ διαχωροῦσιν ἐλάχιστά τε καὶ ξηρ( ά).
+1	ANONYMI	ANONYMI	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+2	LONDINENSIS	LONDINENSIS	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+3	FRAGMENTA	FRAGMENTA	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+4	ol	ol	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	οἱ	ὁ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+6	γ	γ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
+7	(	(	PUNCT	_	_	17	advmod	_	_
+8	ὰρ	ὰρ	ADV	Df	_	17	advmod	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	17	advmod	_	_
+10	προθυμίᾳ	προθυμία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	17	iobj	_	_
+11	γι	ξ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	(	(	PUNCT	_	_	17	advmod	_	_
+13	νόμενοι	νόμενοι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	17	advcl	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	17	nsubj	_	_
+15	πρὸς	πρός	ADP	R-	_	17	case	_	_
+16	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	_
+17	διαχωρῆσαι	διαχωρέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	6	ccomp	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	nsubj	_	_
+19	καταλαμβανόμενοι	καταλαμβάνω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	_
+20	δὲ	δέ	ADV	Df	_	17	discourse	_	_
+21	ἐν	ἐν	ADP	R-	_	22	case	_	_
+22	ἀγορᾶι	ἀγορᾶς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	19	xcomp	_	_
+23	ἢ	ἤ	CCONJ	C-	_	22	cc	_	_
+24	ἐν	ἐν	ADP	R-	_	25	case	_	_
+25	ἀνεπιηδείοις	ἀνεπιηδεῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	33	mark	_	_
+27	εἶτα	εἶτα	ADV	Df	_	28	advmod	_	_
+28	συσχόντες	συσχόντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	33	advcl	_	_
+29	ἐπὶ	ἐπί	ADP	R-	_	30	case	_	_
+30	πλεῖον	πολύς	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	28	advmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	nsubj:pass	_	_
+32	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	33	advmod	_	_
+33	διαχωρο	διαχωρο	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	22	acl	_	SpaceAfter=No
+34	(	(	PUNCT	_	_	35	mark	_	_
+35	ῦσιν	ύς	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	38	nsubj	_	_
+37	ἢ	ἤ	CCONJ	C-	_	38	cc	_	_
+38	διαχωροῦσιν	διαχωρέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	ccomp	_	_
+39	ἐλάχιστά	ἐλάχιστά	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	45	obl	_	_
+40	τε	τε	CCONJ	C-	_	39	cc	_	_
+41	καὶ	καί	CCONJ	C-	_	39	cc	_	_
+42	ξηρ	ξηρ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	39	conj	_	SpaceAfter=No
+43	(	(	PUNCT	_	_	38	obj:dir	_	_
+44	ά	α	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	45	advmod	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	38	conj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	45	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 2
+#text = τίνος αἰ( τίας) γι( νομένης);
+1	τίνος	τίς	PRON	Pi	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	0	root	_	_
+2	αἰ	εἰ	SCONJ	G-	_	1	mark	_	SpaceAfter=No
+3	(	(	PUNCT	_	_	1	iobj	_	_
+4	τίας	τία	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	8	obj:dir	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	8	advmod	_	_
+6	γι	ξ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+7	(	(	PUNCT	_	_	8	advmod	_	_
+8	νομένης	νομένης	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	nsubj:pass	_	SpaceAfter=No
+10	;	;	PUNCT	_	_	8	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 3
+#text = δῆλον ὅτι ἀποφορᾶς καὶ ἀπ' αὐτ( ῶν) γεγενημέν( ης).
+1	δῆλον	δῆλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	ὅτι	ὅτι	SCONJ	G-	_	5	mark	_	_
+3	ἀποφορᾶς	ἀποφορά	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	iobj	_	_
+4	καὶ	καί	CCONJ	C-	_	3	cc	_	_
+5	ἀπ'	ἀπ'	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+6	αὐτ	αὐτ	PROPN	Ne	_	3	conj	_	SpaceAfter=No
+7	(	(	PUNCT	_	_	10	mark	_	_
+8	ῶν	ός	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	10	advmod	_	_
+10	γεγενημέν	γεγενημέν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	(	(	PUNCT	_	_	13	advmod	_	_
+12	ης	η	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	10	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 4
+#text = ἐξ ὦν φανερόν, ὡς τροφή ( ἐστιν) καὶ ἡ ἐν ἐντέροις * * ἐὰν ݲ τούτ( ων) ο( ὕτως) ἐχό( ντων) τῆς γ( ὰρ) τροφῆς ἡμ( ῶν) ἐστιν) [ λείανσις.
+1	ἐξ	ἐκ	ADP	R-	_	3	case	_	_
+2	ὦν	οὖν	ADV	Df	_	3	discourse	_	_
+3	φανερόν	φανερός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	22	advmod	_	_
+5	ὡς	ὡς	ADV	Df	_	22	advcl	_	_
+6	τροφή	τροφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+7	(	(	PUNCT	_	_	22	discourse	_	_
+8	ἐστιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	22	advcl	_	_
+10	καὶ	καί	CCONJ	C-	_	13	cc	_	_
+11	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+12	ἐν	ἐν	ADP	R-	_	13	case	_	_
+13	ἐντέροις	ἐντέροις	PROPN	Ne	Case=Dat|Gender=Neut|Number=Plur	22	obl	_	_
+14	*	*	PUNCT	_	_	13	cc	_	_
+15	*	*	PUNCT	_	_	22	cc	_	_
+16	ἐὰν	ἐάν	SCONJ	G-	_	17	mark	_	_
+17	ݲ	ݲ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	_
+18	τούτ	τούτ	PROPN	Ne	_	17	obj:dir	_	SpaceAfter=No
+19	(	(	PUNCT	_	_	22	mark	_	_
+20	ων	ος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	advcl	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	22	cc	_	_
+22	ο	ο	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+23	(	(	PUNCT	_	_	31	advmod	_	_
+24	ὕτως	ὕτω(ς)	ADV	Df	Degree=Pos	31	advmod	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	31	discourse	_	_
+26	ἐχό	ἐχό	ADP	R-	_	31	advmod	_	SpaceAfter=No
+27	(	(	PUNCT	_	_	31	discourse	_	_
+28	ντων	ντων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	advcl	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	31	advmod	_	_
+30	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	_
+31	γ	γ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	SpaceAfter=No
+32	(	(	PUNCT	_	_	33	nmod	_	_
+33	ὰρ	ὰρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	SpaceAfter=No
+34	)	)	PUNCT	_	_	43	det	_	_
+35	τροφῆς	τροφή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	43	nmod	_	_
+36	ἡμ	ἡμ	PROPN	Ne	_	35	appos	_	SpaceAfter=No
+37	(	(	PUNCT	_	_	43	det	_	_
+38	ῶν	ός	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	43	advcl	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	43	advmod	_	_
+40	ἐστιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	cop	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	43	orphan	_	_
+42	[	[	PUNCT	_	_	43	det	_	_
+43	λείανσις	λείανσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	33	appos	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	43	amod	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 5
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 6
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 7
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 8
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 9
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 10
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 11
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 12
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 13
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 14
+#text = δε τραχῖα καὶ κ( ατα)[[ κε]] χυλωμένη μ( ὲν) [ φ.
+1	δε	δε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obj:dir	_	_
+2	τραχῖα	τραχῖον	PRON	Pi	Case=Acc|Gender=Neut|Number=Plur|PronType=Int	1	iobj	_	_
+3	καὶ	καί	CCONJ	C-	_	2	cc	_	_
+4	κ	κ	ADV	Df	Polarity=Neg	2	conj	_	SpaceAfter=No
+5	(	(	PUNCT	_	_	0	root	_	_
+6	ατα	α	ADJ	A-	Case=Nom|Degree=Sup|Gender=Neut|Number=Plur	1	nsubj	_	SpaceAfter=No
+7	)	)	PUNCT	_	_	8	discourse	_	SpaceAfter=No
+8	[	[	PUNCT	_	_	6	appos	_	SpaceAfter=No
+9	[	[	PUNCT	_	_	8	vocative	_	_
+10	κε	ἄν	ADV	Df	_	16	advmod	_	SpaceAfter=No
+11	]	]	PUNCT	_	_	16	advmod	_	SpaceAfter=No
+12	]	]	PUNCT	_	_	16	advmod	_	_
+13	χυλωμένη	χυλωμένη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	16	nsubj:pass	_	_
+14	μ	μ	PROPN	Ne	_	13	nmod	_	SpaceAfter=No
+15	(	(	PUNCT	_	_	16	advmod	_	_
+16	ὲν	ί#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	iobj	_	_
+18	[	[	PUNCT	_	_	17	appos	_	_
+19	φ	φ	PROPN	Ne	_	18	vocative	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	appos	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 15
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 16
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 17
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 18
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 19
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 20
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 21
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 22
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 23
+#text = ] μὴ καὶ τὸ ἴτριον καὶ τὰ [ αι.
+1	]	]	PUNCT	_	_	0	root	_	_
+2	μὴ	μή	ADV	Df	Polarity=Neg	5	advmod	_	_
+3	καὶ	καί#1	ADV	Df	_	5	advmod	_	_
+4	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	ἴτριον	ἴτριον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+6	καὶ	καί	CCONJ	C-	_	5	cc	_	_
+7	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	8	det	_	_
+8	[	[	PUNCT	_	_	9	obj:dir	_	_
+9	αι	αι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	nsubj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 24
+#text = εια] ειν [ συ.
+1	εια	εια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
+2	]	]	PUNCT	_	_	3	advmod	_	_
+3	ειν	ω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+4	[	[	PUNCT	_	_	3	advcl	_	_
+5	συ	συς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	ccomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 25
+#text = ] καιε(??)] [.
+1	]	]	PUNCT	_	_	8	vocative	_	_
+2	καιε	καιος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+3	(	(	PUNCT	_	_	8	vocative	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	8	vocative	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	8	vocative	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	8	vocative	_	SpaceAfter=No
+7	]	]	PUNCT	_	_	8	vocative	_	_
+8	[	[	PUNCT	_	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 26
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 27
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 28
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 29
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 30
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 31
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 32
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 33
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 34
+#text = ] ἡ στερέμνιος, ὥς φ( ησιν) αὐτός, καὶ τὰ παραπλήσια κατ] α[ σκευάξεται ἐν ἡμ( ῖν)] τοῦτο ἐπί τιν( ων) ξώιων [.
+1	]	]	PUNCT	_	_	0	root	_	_
+2	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	στερέμνιος	στερέμνιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	advcl	_	_
+5	ὥς	ὡς	SCONJ	G-	_	6	mark	_	_
+6	φ	φ	PROPN	Ne	_	3	appos	_	SpaceAfter=No
+7	(	(	PUNCT	_	_	6	acl	_	_
+8	ησιν	ησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	conj	_	_
+10	αὐτός	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	9	det	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	cc	_	_
+12	καὶ	καί	CCONJ	C-	_	8	cc	_	_
+13	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	15	det	_	_
+14	παραπλήσια	παραπλήσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	_
+15	κατ	κατ	PROPN	Ne	_	12	nsubj	_	SpaceAfter=No
+16	]	]	PUNCT	_	_	17	det	_	_
+17	α	α	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	15	appos	_	SpaceAfter=No
+18	[	[	PUNCT	_	_	17	amod	_	_
+19	σκευάξεται	σκευάξω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl	_	_
+20	ἐν	ἐν	ADP	R-	_	21	case	_	_
+21	ἡμ	ἡμ	PROPN	Ne	_	19	obl	_	SpaceAfter=No
+22	(	(	PUNCT	_	_	23	nsubj	_	_
+23	ῖν	εῖς	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	csubj:pass	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	25	advmod	_	SpaceAfter=No
+25	]	]	PUNCT	_	_	23	advcl	_	_
+26	τοῦτο	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	28	nsubj	_	_
+27	ἐπί	ἐπί	ADP	R-	_	28	case	_	_
+28	τιν	τις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+29	(	(	PUNCT	_	_	28	ccomp	_	_
+30	ων	ος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	29	advcl	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	30	obj:dir	_	_
+32	ξώιων	ξώιος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	advcl	_	_
+33	[	[	PUNCT	_	_	32	xcomp	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	32	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 35
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 36
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 37
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 38
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 39
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 40
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 41
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 42
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 43
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 44
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 45
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 46
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 47
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 48
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 49
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 50
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 51
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 52
+#text = τερον βορὰν ἐνίων [.
+1	τερον	τερος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	2	amod	_	_
+2	βορὰν	βορά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	_
+3	ἐνίων	ἐνίω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	_
+4	[	[	PUNCT	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	fixed	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 53
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 54
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 55
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 56
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 57
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 58
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 59
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 60
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 61
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 62
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 63
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 64
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 65
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 66
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 67
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 68
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 69
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 70
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 71
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 72
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 73
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 74
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 75
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 76
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 77
+#text = ] κατεργασίαν, τὸν δὲ λό( γον) τοῦτον ov [.
+1	]	]	PUNCT	_	_	11	advmod	_	_
+2	κατεργασίαν	κατεργασία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	discourse	_	_
+4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+5	δὲ	δέ	ADV	Df	_	11	discourse	_	_
+6	λό	λό	ADP	R-	_	11	case	_	SpaceAfter=No
+7	(	(	PUNCT	_	_	11	discourse	_	_
+8	γον	γος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	11	obl	_	_
+10	τοῦτον	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	_
+11	ov	ov	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	[	[	PUNCT	_	_	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	nsubj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 78
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 79
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 80
+#text = ] ματα αὐτῶν.
+1	]	]	PUNCT	_	_	0	root	_	_
+2	ματα	μα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+3	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	appos	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 81
+#text = ή γ( ὰρ) τροφή [.
+1	ή	ή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	γ	γ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	(	(	PUNCT	_	_	6	det	_	_
+4	ὰρ	ὰρ	ADV	Df	_	6	advmod	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	6	det	_	_
+6	τροφή	τροφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	xcomp	_	_
+7	[	[	PUNCT	_	_	6	det	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	amod	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 82
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 83
+#text = ] ἔσω βαλεῖν [.
+1	]	]	PUNCT	_	_	3	nsubj	_	_
+2	ἔσω	ἔσω	ADV	Df	_	3	advmod	_	_
+3	βαλεῖν	βάλλω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	_
+4	[	[	PUNCT	_	_	5	orphan	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	ccomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 84
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 85
+#text = εχθαι Fr.
+1	εχθαι	εχθαι	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 86
+#text = III Fr.
+1	III	III	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 87
+#text = IV ι την σα.
+1	IV	IV	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ι	ι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+3	την	της	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	_
+4	σα	σα	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	3	det	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 88
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 89
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 90
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 91
+#text = av Fr.
+1	av	av	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 92
+#text = VI κ.
+1	VI	VI	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	κ	κ	ADP	R-	_	3	case	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	obl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 93
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 94
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 95
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 96
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 97
+#text = α ι σ η ι VO.
+1	α	α	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	_
+2	ι	ι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+3	σ	σ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+4	η	ος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	ι	ι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
+6	VO	VO	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 98
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 99
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 100
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 101
+#text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 102
+#text = τ ι Fr.
+1	τ	τ	PROPN	Ne	_	2	nsubj	_	_
+2	ι	ι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+3	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 103
+#text = VII Fr.
+1	VII	VII	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 104
+#text = Vlll Fr.
+1	Vlll	Vlll	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 105
+#text = IX Fr.
+1	IX	IX	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 106
+#text = X Fr.
+1	X	X	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 107
+#text = XI Fr.
+1	XI	XI	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	Fr	Fr	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1
+#newpar = 1-1
+#sent_id = 108
+#text = XII ιν TCl Praeceptum in postica scriptum:
+1	XII	XII	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+2	ιν	ις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	_
+3	TCl	TCl	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	Praeceptum	Praeceptum	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+5	in	in	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+6	postica	postica	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+7	scriptum	scriptum	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	7	obj:dir	_	_
+

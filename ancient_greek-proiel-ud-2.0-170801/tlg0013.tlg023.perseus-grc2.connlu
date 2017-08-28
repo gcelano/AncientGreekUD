@@ -1,0 +1,21 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg023.perseus-grc2
+#newpar = 1-4
+#sent_id = 1
+#text = Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον, ἵληθʼ, εὐρύοπα Κρονίδη, κύδιστε μέγιστε.
+1	Ζῆνα	Ζῆν	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	_
+2	θεῶν	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	ἄριστον	ἀγαθός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	5	obj:dir	_	_
+5	ἀείσομαι	ἀείσω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	1	acl	_	_
+6	ἠδὲ	ἠδέ	CCONJ	C-	_	4	cc	_	_
+7	μέγιστον	μέγας	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	mark	_	_
+9	ἵληθʼ	ἵληθʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	advmod	_	_
+11	εὐρύοπα	εὐρύοπος	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	Κρονίδη	Κρονίδης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	iobj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	cop	_	_
+14	κύδιστε	κύδιστε	ADV	Df	_	15	advmod	_	_
+15	μέγιστε	μέγιστος	ADJ	A-	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	11	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	cop	_	_
+

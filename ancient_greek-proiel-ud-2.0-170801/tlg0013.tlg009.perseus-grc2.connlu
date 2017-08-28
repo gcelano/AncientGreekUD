@@ -1,0 +1,23 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg009.perseus-grc2
+#newpar = 1-1
+#sent_id = 1
+#text = Ἄρτεμιν ὕμνει, Μοῦσα, κασιγνήτην Ἑκάτοιο.
+1	Ἄρτεμιν	Ἄρτεμις	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	_
+2	ὕμνει	ὕμνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	xcomp	_	_
+4	Μοῦσα	Μέω	PROPN	Ne	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	advmod	_	_
+6	κασιγνήτην	κασιγνήτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	xcomp	_	_
+7	Ἑκάτοιο	Ἑκάτομαι	VERB	V-	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg009.perseus-grc2
+#newpar = 5-5
+#sent_id = 2
+#text = ἧσται μιμνάζων ἑκατηβόλον ἰοχέαιραν.
+1	ἧσται	ἧσται	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	μιμνάζων	μιμνάζω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+3	ἑκατηβόλον	ἑκατηβόλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	ἰοχέαιραν	ἰοχέαιρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	det	_	_
+

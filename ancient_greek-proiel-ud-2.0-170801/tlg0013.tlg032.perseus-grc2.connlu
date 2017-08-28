@@ -1,0 +1,45 @@
+#newdoc = urn:cts:greekLit:tlg0013.tlg032.perseus-grc2
+#newpar = 1-5
+#sent_id = 1
+#text = μήνην ἀείδειν τανυσίπτερον ἔσπετε, Μοῦσαι, αἴγλης λαμπούσης·
+1	μήνην	μήνη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	_
+2	ἀείδειν	ἀείδω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	_
+3	τανυσίπτερον	τανυσίπς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	_
+4	ἔσπετε	ἔσπω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	iobj	_	_
+6	Μοῦσαι	Μοῦσαι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	appos	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	ccomp	_	_
+8	αἴγλης	αἴγλη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	iobj	_	_
+9	λαμπούσης	λαμπέω	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	SpaceAfter=No
+10	·	·	PUNCT	_	_	9	nsubj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0013.tlg032.perseus-grc2
+#newpar = 5-20
+#sent_id = 2
+#text = στίλβει δέ τʼ ἀλάμπετος ἀὴρ ἐσσυμένως προτέρωσʼ ἐλάσῃ καλλίτριχας ἵππους, ἣ δʼ ὑποκυσαμένη Πανδείην γείνατο κούρην, Μουσάων θεράποντες, ἀπὸ στομάτων ἐροέντων.
+1	στίλβει	στίλβω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+2	δέ	δέ	ADV	Df	_	3	discourse	_	_
+3	τʼ	τʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἀλάμπετος	ἀλάμπετος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	ἀὴρ	ἀήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	ἐσσυμένως	ἐσσυμένως	ADV	Df	Degree=Pos	7	advmod	_	_
+7	προτέρωσʼ	προτέρωσʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+8	ἐλάσῃ	ἐλαύνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	obj:dir	_	_
+9	καλλίτριχας	καλλίτριχης	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	_
+10	ἵππους	ἵππος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	obj:dir	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	nsubj	_	_
+12	ἣ	ὅς	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	_
+13	δʼ	δʼ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+14	ὑποκυσαμένη	ὑποκυσαμένη	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	16	advcl	_	_
+15	Πανδείην	Πανδεία	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	14	obj:dir	_	_
+16	γείνατο	γείνημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
+17	κούρην	κούρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	24	advmod	_	_
+19	Μουσάων	Μουσάων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+20	θεράποντες	θεράπων	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	advmod	_	_
+22	ἀπὸ	ἀπό	ADP	R-	_	23	case	_	_
+23	στομάτων	στόμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	24	obl	_	_
+24	ἐροέντων	ἐροέντων	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	24	vocative	_	_
+

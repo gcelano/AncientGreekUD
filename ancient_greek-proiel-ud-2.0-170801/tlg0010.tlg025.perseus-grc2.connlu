@@ -1,0 +1,882 @@
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 1
+#text = τοῖς Μυτιληναίων ἄρχουσιν οἱ παῖδες οἱ Ἀφαρέως, ὑιδεῖς δ᾽ ἐμοί, παιδευθέντες ὑπ᾽ Ἀγήνορος τὰ περὶ τὴν μουσικήν, ἐδεήθησάν μου γράμματα πέμψαι πρὸς ὑμᾶς, ὅπως ἄν, ἐπειδὴ καὶ τῶν ἄλλων τινὰς κατηγάγετε φυγάδων, καὶ τοῦτον καταδέξησθε καὶ τὸν πατέρα καὶ τοὺς ἀδελφούς.
+1	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	Μυτιληναίων	Μυτιληναῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	_
+3	ἄρχουσιν	ἄρχω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	παῖδες	παῖς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+6	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	Ἀφαρέως	Ἀφαρῆς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	cc	_	_
+9	ὑιδεῖς	ὑιδύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	ἐμοί	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	mark	_	_
+13	παιδευθέντες	παιδευθέντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
+14	ὑπ᾽	ὑπ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+15	Ἀγήνορος	Ἀγήνωρ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+16	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	17	det	_	_
+17	περὶ	περί	ADP	R-	_	19	case	_	_
+18	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	μουσικήν	μουσική	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	14	advmod	_	_
+21	ἐδεήθησάν	ἐδεήθησιδάν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	20	acl	_	_
+22	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	23	det	_	_
+23	γράμματα	γράμμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	21	nsubj:pass	_	_
+24	πέμψαι	πέμπω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+25	πρὸς	πρός	ADP	R-	_	26	case	_	_
+26	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	24	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	21	advmod	_	_
+28	ὅπως	ὅπως	SCONJ	G-	_	30	mark	_	_
+29	ἄν	ἄν	ADV	Df	_	28	advmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	27	advcl	_	_
+31	ἐπειδὴ	ἐπειδή	SCONJ	G-	_	36	mark	_	_
+32	καὶ	καί#1	ADV	Df	_	34	advmod	_	_
+33	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	34	det	_	_
+34	ἄλλων	ἄλλος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	36	iobj	_	_
+35	τινὰς	τὶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	37	det	_	_
+36	κατηγάγετε	κατηγάγω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	_
+37	φυγάδων	φυγάς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	41	mark	_	_
+39	καὶ	καί	CCONJ	C-	_	41	cc	_	_
+40	τοῦτον	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	41	obj:dir	_	_
+41	καταδέξησθε	καταδέξομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	36	ccomp	_	_
+42	καὶ	καί	CCONJ	C-	_	41	cc	_	_
+43	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	44	det	_	_
+44	πατέρα	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	41	conj	_	_
+45	καὶ	καί	CCONJ	C-	_	44	cc	_	_
+46	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	47	det	_	_
+47	ἀδελφούς	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	44	conj	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	41	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 2
+#text = λέγοντος δέ μου πρὸς αὐτοὺς ὅτι δέδοικα μὴ λίαν ἄτοπος εἶναι δόξω καὶ περίεργος, ζητῶν εὑρίσκεσθαι τηλικαῦτα τὸ μέγεθος παρ᾽ ἀνδρῶν οἷς οὐδὲ πώποτε πρότερον οὔτε διελέχθην οὔτε συνήθης ἐγενόμην, ἀκούσαντες ταῦτα πολὺ μᾶλλον ἐλιπάρουν.
+1	λέγοντος	λέγω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	_
+2	δέ	δέ	ADV	Df	_	12	discourse	_	_
+3	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+4	πρὸς	πρός	ADP	R-	_	5	case	_	_
+5	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+6	ὅτι	ὅτι	SCONJ	G-	_	7	mark	_	_
+7	δέδοικα	δέδοιξ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+8	μὴ	μή	ADV	Df	Polarity=Neg	9	advmod	_	_
+9	λίαν	λίαν	ADV	Df	_	7	advmod	_	_
+10	ἄτοπος	ἄτοπος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	ccomp	_	_
+11	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	cop	_	_
+12	δόξω	δοκέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+13	καὶ	καί	CCONJ	C-	_	12	cc	_	_
+14	περίεργος	περίεργος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	37	discourse	_	_
+16	ζητῶν	ζητέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	advcl	_	_
+17	εὑρίσκεσθαι	εὑρίσκω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	16	xcomp	_	_
+18	τηλικαῦτα	τηλικοῦτος	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	20	amod	_	_
+19	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	_
+20	μέγεθος	μέγεθος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+21	παρ᾽	παρ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	37	advcl	_	_
+22	ἀνδρῶν	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	21	iobj	_	_
+23	οἷς	ὅς	PRON	Pr	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	28	iobj	_	_
+24	οὐδὲ	οὐδέ	ADV	Df	Polarity=Neg	26	advmod	_	_
+25	πώποτε	πώποτε	ADV	Df	_	28	advmod	_	_
+26	πρότερον	πρότερος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	28	advmod	_	_
+27	οὔτε	οὔτε	CCONJ	C-	_	28	cc	_	_
+28	διελέχθην	διελέχθης	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	22	acl	_	_
+29	οὔτε	οὔτε	CCONJ	C-	_	28	cc	_	_
+30	συνήθης	συνέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	28	conj	_	_
+31	ἐγενόμην	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	37	parataxis	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	37	cc	_	_
+33	ἀκούσαντες	ἀκούω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	37	advcl	_	_
+34	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	33	obj:dir	_	_
+35	πολὺ	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	37	advmod	_	_
+36	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	35	advmod	_	_
+37	ἐλιπάρουν	ἐλιπάρουν	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	37	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 3
+#text = ὡς δ᾽ οὐδὲν αὐτοῖς ἀπέβαινεν ὧν ἤλπιζον, ἅπασιν ἦσαν καταφανεῖς ἀηδῶς διακείμενοι καὶ χαλεπῶς φέροντες.
+1	ὡς	ὡς	ADV	Df	_	2	advmod	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	_
+4	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
+5	ἀπέβαινεν	ἀποβαίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	7	obj:dir	_	_
+7	ἤλπιζον	ἐλπίζω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	discourse	_	_
+9	ἅπασιν	ἅπασις	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+10	ἦσαν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	καταφανεῖς	καταφανέω	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	_
+12	ἀηδῶς	ἀηδῶς	ADV	Df	Degree=Pos	13	advmod	_	_
+13	διακείμενοι	διακείμενοι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	advcl	_	_
+14	καὶ	καί	CCONJ	C-	_	13	cc	_	_
+15	χαλεπῶς	χαλεπῶς	ADV	Df	Degree=Pos	16	advmod	_	_
+16	φέροντες	φέρω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	obj:dir	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 4
+#text = ὁρῶν δ᾽ αὐτοὺς λυπουμένους μᾶλλον τοῦ προσήκοντος, τελευτῶν ὑπεσχόμην γράψειν τὴν ἐπιστολὴν καὶ πέμψειν ὑμῖν.
+1	ὁρῶν	ὁράω	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj:dir	_	_
+4	λυπουμένους	λυπουμένος	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	2	xcomp	_	_
+5	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	4	advmod	_	_
+6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	προσήκοντος	προσήκω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	iobj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	advmod	_	_
+9	τελευτῶν	τελευτάω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	_
+10	ὑπεσχόμην	ὑπέχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	_
+11	γράψειν	γράπω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+13	ἐπιστολὴν	ἐπιστολή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	_
+14	καὶ	καί	CCONJ	C-	_	11	cc	_	_
+15	πέμψειν	πέμπω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	conj	_	_
+16	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	15	iobj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 5
+#text = ὑπὲρ μὲν οὖν τοῦ μὴ δικαίως ἂν δοκεῖν μωρὸς εἶναι μηδ᾽ ὀχληρὸς ταῦτ᾽ ἔχω λέγειν.
+1	ὑπὲρ	ὑπέρ	ADP	R-	_	6	case	_	_
+2	μὲν	μέν	ADV	Df	_	8	discourse	_	_
+3	οὖν	οὖν	ADV	Df	_	8	discourse	_	_
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
+5	μὴ	μή	ADV	Df	Polarity=Neg	6	advmod	_	_
+6	δικαίως	δικαίως	ADV	Df	Degree=Pos	8	advmod	_	_
+7	ἂν	ἄν	ADV	Df	_	8	advmod	_	_
+8	δοκεῖν	δοκέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	ccomp	_	_
+9	μωρὸς	μωρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	_
+10	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	cop	_	_
+11	μηδ᾽	μηδ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+12	ὀχληρὸς	ὀχληρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	advmod	_	_
+13	ταῦτ᾽	ταῦτ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	ccomp	_	_
+14	ἔχω	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	14	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 6
+#text = ἡγοῦμαι δὲ καλῶς ὑμᾶς βεβουλεῦσθαι καὶ διαλλαττομένους τοῖς πολίταις τοῖς ὑμετέροις, καὶ πειρωμένους τοὺς μὲν φεύγοντας ὀλίγους ποιεῖν, τοὺς δὲ συμπολιτευομένους πολλούς, καὶ μιμουμένους τὰ περὶ τὴν στάσιν τὴν πόλιν τὴν ἡμετέραν.
+1	ἡγοῦμαι	ἡγέομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	_
+3	καλῶς	καλῶς	ADV	Df	Degree=Pos	5	advmod	_	_
+4	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+5	βεβουλεῦσθαι	βεβουλεῦσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	1	ccomp	_	_
+6	καὶ	καί	CCONJ	C-	_	5	cc	_	_
+7	διαλλαττομένους	διαλλαττομένος	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	conj	_	_
+8	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	πολίταις	πολίτης	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
+10	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	ὑμετέροις	ὕμετερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	1	advcl	_	_
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	_
+14	πειρωμένους	πειράω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	12	acl	_	_
+15	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	_
+16	μὲν	μέν	ADV	Df	_	17	discourse	_	_
+17	φεύγοντας	φεύγω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	obj:dir	_	_
+18	ὀλίγους	ὀλίγος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	19	xcomp	_	_
+19	ποιεῖν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	14	conj	_	_
+21	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	24	det	_	_
+22	δὲ	δέ	ADV	Df	_	24	discourse	_	_
+23	συμπολιτευομένους	συμπολιτεύω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	24	acl	_	_
+24	πολλούς	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	36	conj	_	_
+26	καὶ	καί	CCONJ	C-	_	36	cc	_	_
+27	μιμουμένους	μιμουμένος	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	36	advcl	_	_
+28	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	29	det	_	_
+29	περὶ	περί	ADP	R-	_	31	case	_	_
+30	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	31	det	_	_
+31	στάσιν	στάσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj:dir	_	_
+32	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	_
+33	πόλιν	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	31	appos	_	_
+34	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	35	det	_	_
+35	ἡμετέραν	ἡμέτερος	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	24	orphan	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 7
+#text = μάλιστα δ᾽ ἄν τις ὑμᾶς ἐπαινέσειεν ὅτι τοῖς κατιοῦσιν ἀποδίδοτε τὴν οὐσίαν:
+1	μάλιστα	μάλα	ADV	Df	Degree=Sup	2	advmod	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+3	ἄν	ἄν	ADV	Df	_	2	advmod	_	_
+4	τις	τὶς	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obj:dir	_	_
+6	ἐπαινέσειεν	ἐπαινέσειεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ὅτι	ὅτι	SCONJ	G-	_	10	mark	_	_
+8	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	κατιοῦσιν	κατιέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	iobj	_	_
+10	ἀποδίδοτε	ἀποδίδωμι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+12	οὐσίαν	οὐσία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	6	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 8
+#text = ἐπιδείκνυσθε γὰρ καὶ ποιεῖτε πᾶσι φανερὸν ὡς οὐ τῶν κτημάτων ἐπιθυμήσαντες τῶν ἀλλοτρίων, ἀλλ᾽ ὑπὲρ τῆς πόλεως δείσαντες ἐποιήσασθε τὴν ἐκβολὴν αὐτῶν.
+1	ἐπιδείκνυσθε	ἐπιδείκνυσθε	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	_
+3	καὶ	καί	CCONJ	C-	_	1	cc	_	_
+4	ποιεῖτε	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	πᾶσι	πᾶς	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	_
+6	φανερὸν	φανερός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+7	ὡς	ὡς	ADV	Df	_	11	advmod	_	_
+8	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	_
+9	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	_
+10	κτημάτων	κτῆμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	obj:dir	_	_
+11	ἐπιθυμήσαντες	ἐπιθυμήω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	_
+12	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
+13	ἀλλοτρίων	ἀλλότριος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	20	mark	_	_
+15	ἀλλ᾽	ἀλλ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	_
+16	ὑπὲρ	ὑπέρ	ADP	R-	_	18	case	_	_
+17	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	πόλεως	πόλις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+19	δείσαντες	δείδω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	_	_
+20	ἐποιήσασθε	ποιήσαμαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	6	ccomp	_	_
+21	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
+22	ἐκβολὴν	εἰκβολή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obj:dir	_	_
+23	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	det	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 9
+#text = οὐ μὴν ἀλλ᾽ εἰ καὶ μηδὲν ὑμῖν ἔδοξε τούτων μηδὲ προσεδέχεσθε μηδένα τῶν φυγάδων, τούτους γε νομίζω συμφέρειν ὑμῖν κατάγειν.
+1	οὐ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	_
+2	μὴν	μήν	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ἀλλ᾽	ἀλλ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	εἰ	εἰ	SCONJ	G-	_	8	mark	_	_
+5	καὶ	καί#1	ADV	Df	_	8	advmod	_	_
+6	μηδὲν	μηδείς	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	iobj	_	_
+8	ἔδοξε	δοκέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+9	τούτων	οὗτος	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	8	iobj	_	_
+10	μηδὲ	μηδέ	CCONJ	C-	_	11	cc	_	_
+11	προσεδέχεσθε	προσεδέχω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	_
+12	μηδένα	μηδείς	ADJ	Px	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	_
+13	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+14	φυγάδων	φυγάς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	advmod	_	_
+16	τούτους	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	19	nsubj	_	_
+17	γε	γε	ADV	Df	_	18	discourse	_	_
+18	νομίζω	νομίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+19	συμφέρειν	συμφέρω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	ccomp	_	_
+20	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	19	iobj	_	_
+21	κατάγειν	κατάγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	18	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 10
+#text = αἰσχρὸν γὰρ τὴν μὲν πόλιν ὑμῶν ὑπὸ πάντων ὁμολογεῖσθαι μουσικωτάτην εἶναι καὶ τοὺς ὀνομαστοτάτους ἐν αὐτῇ παρ᾽ ὑμῖν τυγχάνειν γεγονότας, τὸν δὲ προέχοντα τῶν νῦν ὄντων περὶ τὴν ἱστορίαν τῆς παιδείας ταύτης φεύγειν ἐκ τῆς τοιαύτης πόλεως, καὶ τοὺς μὲν ἄλλους Ἕλληνας τοὺς διαφέροντας περί τι τῶν καλῶν ἐπιτηδευμάτων, κἂν μηδὲν προσήκωσι, ποιεῖσθαι πολίτας, ὑμᾶς δὲ τοὺς εὐδοκιμοῦντάς τε παρὰ τοῖς ἄλλοις καὶ μετασχόντας τῆς αὐτῆς φύσεως περιορᾶν παρ᾽ ἑτέροις μετοικοῦντας.
+1	αἰσχρὸν	αἰσχρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	_
+3	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+4	μὲν	μέν	ADV	Df	_	1	discourse	_	_
+5	πόλιν	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	_
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	_
+7	ὑπὸ	ὑπό	ADP	R-	_	8	case	_	_
+8	πάντων	πᾶς	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+9	ὁμολογεῖσθαι	ὁμολογέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	1	ccomp	_	_
+10	μουσικωτάτην	μουσικός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	9	xcomp	_	_
+11	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	cop	_	_
+12	καὶ	καί	CCONJ	C-	_	10	cc	_	_
+13	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+14	ὀνομαστοτάτους	ὀνομαστοτάτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	10	conj	_	_
+15	ἐν	ἐν	ADP	R-	_	16	case	_	_
+16	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+17	παρ᾽	παρ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+18	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	19	iobj	_	_
+19	τυγχάνειν	τυγχάνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+20	γεγονότας	γίγνομαι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	1	cc	_	_
+22	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	_
+23	δὲ	δέ	ADV	Df	_	34	discourse	_	_
+24	προέχοντα	προέχω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	34	advcl	_	_
+25	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	27	det	_	_
+26	νῦν	νῦν#1	ADV	Df	_	27	advmod	_	_
+27	ὄντων	εἰμί#1	AUX	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	iobj	_	_
+28	περὶ	περί	ADP	R-	_	30	case	_	_
+29	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
+30	ἱστορίαν	ἱστορία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+31	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	_
+32	παιδείας	παιδεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+33	ταύτης	οὗτος	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	32	det	_	_
+34	φεύγειν	φεύγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	conj	_	_
+35	ἐκ	ἐκ	ADP	R-	_	38	case	_	_
+36	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	38	det	_	_
+37	τοιαύτης	τοιοῦτος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
+38	πόλεως	πόλις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	obl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	53	nsubj	_	_
+40	καὶ	καί	CCONJ	C-	_	53	advmod	_	_
+41	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	43	det	_	_
+42	μὲν	μέν	ADV	Df	_	53	discourse	_	_
+43	ἄλλους	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	53	obj:dir	_	_
+44	Ἕλληνας	Ἕλλην	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	53	nsubj	_	_
+45	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	44	det	_	_
+46	διαφέροντας	διαφέρω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	53	advcl	_	_
+47	περί	περί	ADP	R-	_	48	case	_	_
+48	τι	τὶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	46	obl	_	_
+49	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	51	det	_	_
+50	καλῶν	καλός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	51	amod	_	_
+51	ἐπιτηδευμάτων	ἔπιτηδευματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	48	nmod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	nsubj	_	_
+53	κἂν	κἂ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	34	ccomp	_	_
+54	μηδὲν	μηδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	55	obj:dir	_	_
+55	προσήκωσι	προσήκω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	53	advcl	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	55	advmod	_	_
+57	ποιεῖσθαι	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	56	ccomp	_	_
+58	πολίτας	πολίτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	57	nsubj:pass	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	53	iobj	_	_
+60	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	74	nsubj	_	_
+61	δὲ	δέ	ADV	Df	_	74	discourse	_	_
+62	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	63	det	_	_
+63	εὐδοκιμοῦντάς	εὐδοκιμοῦντής	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	74	obj:dir	_	_
+64	τε	τε	CCONJ	C-	_	63	cc	_	_
+65	παρὰ	παρά	ADP	R-	_	67	case	_	_
+66	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	67	det	_	_
+67	ἄλλοις	ἄλλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	73	obl	_	_
+68	καὶ	καί	CCONJ	C-	_	67	cc	_	_
+69	μετασχόντας	μετασχόντας	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	67	conj	_	_
+70	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	72	det	_	_
+71	αὐτῆς	αὐτός	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	72	det	_	_
+72	φύσεως	φύσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	69	iobj	_	_
+73	περιορᾶν	περιοράω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	74	xcomp	_	_
+74	παρ᾽	παρ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	57	conj	_	_
+75	ἑτέροις	ἕτερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	76	advmod	_	_
+76	μετοικοῦντας	μετοικέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	63	acl	_	SpaceAfter=No
+77	.	.	PUNCT	_	_	74	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 11
+#text = θαυμάζω δ᾽ ὅσαι τῶν πόλεων μειζόνων δωρεῶν ἀξιοῦσι τοὺς ἐν τοῖς γυμνικοῖς ἀγῶσι κατορθοῦντας μᾶλλον ἢ τοὺς τῇ φρονήσει καὶ τῇ φιλοπονίᾳ τι τῶν χρησίμων εὑρίσκοντας, καὶ μὴ συνορῶσιν ὅτι πεφύκασιν αἱ μὲν περὶ τὴν ῥώμην καὶ τὸ τάχος δυνάμεις συναποθνῄσκειν τοῖς σώμασιν, αἱ δ᾽ ἐπιστῆμαι παραμένειν ἅπαντα τὸν χρόνον ὠφελοῦσαι τοὺς χρωμένους αὐταῖς.
+1	θαυμάζω	θαυμάζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ὅσαι	ὅσος	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	7	det	_	_
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+5	πόλεων	πόλις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+6	μειζόνων	μειζονέω	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	δωρεῶν	δωρεά	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	obj:dir	_	_
+8	ἀξιοῦσι	ἀξιόω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+9	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+10	ἐν	ἐν	ADP	R-	_	12	case	_	_
+11	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	γυμνικοῖς	γυμνικός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	_
+13	ἀγῶσι	ἀγών	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+14	κατορθοῦντας	κατορθέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	obj:dir	_	_
+15	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	8	advmod	_	_
+16	ἢ	ἤ	ADV	Df	_	15	advmod	_	_
+17	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	_
+18	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	φρονήσει	φρόνησις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	iobj	_	_
+20	καὶ	καί	CCONJ	C-	_	19	cc	_	_
+21	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
+22	φιλοπονίᾳ	φιλοπονία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	30	iobj	_	_
+23	τι	τὶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	26	obj:dir	_	_
+24	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	25	det	_	_
+25	χρησίμων	χρησίμων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	23	nmod	_	_
+26	εὑρίσκοντας	εὑρίσκω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	30	advcl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	mark	_	_
+28	καὶ	καί	CCONJ	C-	_	30	cc	_	_
+29	μὴ	μή	ADV	Df	Polarity=Neg	30	advmod	_	_
+30	συνορῶσιν	συνοράω	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+31	ὅτι	ὅτι	SCONJ	G-	_	32	mark	_	_
+32	πεφύκασιν	πεφύκασις	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	ccomp	_	_
+33	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	35	det	_	_
+34	μὲν	μέν	ADV	Df	_	32	discourse	_	_
+35	περὶ	περί	ADP	R-	_	37	case	_	_
+36	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	_
+37	ῥώμην	ῥώμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	32	obj:dir	_	_
+38	καὶ	καί	CCONJ	C-	_	37	cc	_	_
+39	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	40	det	_	_
+40	τάχος	τάχος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	37	conj	_	_
+41	δυνάμεις	δύναμις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	42	obj:dir	_	_
+42	συναποθνῄσκειν	συναποθνῄσκω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	40	acl	_	_
+43	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	44	det	_	_
+44	σώμασιν	σῶμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	42	obl	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	32	advcl	_	_
+46	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	47	det	_	_
+47	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	53	nsubj	_	_
+48	ἐπιστῆμαι	ἐπιστῆμαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	47	xcomp	_	_
+49	παραμένειν	παραμένω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	48	xcomp	_	_
+50	ἅπαντα	ἅπας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+51	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	52	det	_	_
+52	χρόνον	χρόνος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	49	obl	_	_
+53	ὠφελοῦσαι	ὠφελέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	45	ccomp	_	_
+54	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	55	det	_	_
+55	χρωμένους	χράομαι	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	53	obj:dir	_	_
+56	αὐταῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	53	obl	_	SpaceAfter=No
+57	.	.	PUNCT	_	_	53	advmod	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 12
+#text = ὧν ἐνθυμουμένους χρὴ τοὺς νοῦν ἔχοντας περὶ πλείστου μὲν ποιεῖσθαι τοὺς καλῶς καὶ δικαίως τῆς αὑτῶν πόλεως ἐπιστατοῦντας, δευτέρους δὲ τοὺς τιμὴν καὶ δόξαν αὐτῇ καλὴν συμβαλέσθαι δυναμένους:
+1	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	2	obj:dir	_	_
+2	ἐνθυμουμένους	ἔνθυμουμαι	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	3	advcl	_	_
+3	χρὴ	χρή	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	νοῦν	νόος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	_
+6	ἔχοντας	ἔχω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	_
+7	περὶ	περί	ADP	R-	_	8	case	_	_
+8	πλείστου	πολύς	ADJ	A-	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	10	obl	_	_
+9	μὲν	μέν	ADV	Df	_	10	discourse	_	_
+10	ποιεῖσθαι	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	3	xcomp	_	_
+11	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	καλῶς	καλῶς	ADV	Df	Degree=Pos	10	advmod	_	_
+13	καὶ	καί	CCONJ	C-	_	12	cc	_	_
+14	δικαίως	δικαίως	ADV	Df	Degree=Pos	18	advmod	_	_
+15	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+16	αὑτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	det	_	_
+17	πόλεως	πόλις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	iobj	_	_
+18	ἐπιστατοῦντας	ἐπιστατέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	10	csubj:pass	_	_
+20	δευτέρους	δευτέρος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	23	amod	_	_
+21	δὲ	δέ	ADV	Df	_	28	discourse	_	_
+22	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	_	_
+23	τιμὴν	τιμή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj:dir	_	_
+24	καὶ	καί	CCONJ	C-	_	23	cc	_	_
+25	δόξαν	δόξα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	28	obj:dir	_	_
+26	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	iobj	_	_
+27	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+28	συμβαλέσθαι	συμβάλλω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	23	conj	_	_
+29	δυναμένους	δύναμαι	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	28	advcl	_	SpaceAfter=No
+30	:	:	PUNCT	_	_	3	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 13
+#text = ἅπαντες γὰρ ὥσπερ δείγματι τοῖς τοιούτοις χρώμενοι καὶ τοὺς ἄλλους τοὺς συμπολιτευομένους ὁμοίους εἶναι τούτοις νομίζουσιν.
+1	ἅπαντες	ἅπας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	17	nsubj	_	_
+2	γὰρ	γάρ	ADV	Df	_	17	discourse	_	_
+3	ὥσπερ	ὥσπερ	ADV	Dq	PronType=Rel	7	advmod	_	_
+4	δείγματι	δείγμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+5	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+6	τοιούτοις	τοιοῦτος	ADJ	Pd	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
+7	χρώμενοι	χράω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	17	advcl	_	_
+8	καὶ	καί	CCONJ	C-	_	7	cc	_	_
+9	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	ἄλλους	ἄλλος	ADJ	Px	Case=Acc|Gender=Masc|Number=Plur	16	obj:dir	_	_
+11	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	συμπολιτευομένους	συμπολιτεύω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	10	nmod	_	_
+13	ὁμοίους	ὁμοῖος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	12	xcomp	_	_
+14	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	cop	_	_
+15	τούτοις	οὗτος	ADJ	Pd	Case=Dat|Gender=Neut|Number=Plur	16	iobj	_	_
+16	νομίζουσιν	νομίζω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 14
+#text = ἴσως οὖν εἴποι τις ἂν ὅτι προσήκει τοὺς εὑρέσθαι τι βουλομένους μὴ τὸ πρᾶγμα μόνον ἐπαινεῖν ἀλλὰ καὶ σφᾶς αὐτοὺς ἐπιδεικνύναι δικαίως ἂν τυγχάνοντας, περὶ ὧν ποιοῦνται τοὺς λόγους.
+1	ἴσως	ἴσως	ADV	Df	_	3	advmod	_	_
+2	οὖν	οὖν	ADV	Df	_	3	discourse	_	_
+3	εἴποι	λέγω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	τις	τὶς	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	ἂν	ἄν	ADV	Df	_	3	advmod	_	_
+6	ὅτι	ὅτι	SCONJ	G-	_	7	mark	_	_
+7	προσήκει	προσήκω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	nsubj	_	_
+9	εὑρέσθαι	εὑρέσθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	7	obj:dir	_	_
+10	τι	τίς	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj:dir	_	_
+11	βουλομένους	βούλομαι	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	9	advcl	_	_
+12	μὴ	μή	ADV	Df	Polarity=Neg	16	advmod	_	_
+13	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	_
+14	πρᾶγμα	πρᾶγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	_
+15	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	advmod	_	_
+16	ἐπαινεῖν	ἐπαινέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	ccomp	_	_
+17	ἀλλὰ	ἀλλά	CCONJ	C-	_	9	cc	_	_
+18	καὶ	καί#1	ADV	Df	_	19	advmod	_	_
+19	σφᾶς	σφεῖς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
+20	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+21	ἐπιδεικνύναι	ἐπιδείκνυμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	ccomp	_	_
+22	δικαίως	δικαίως	ADV	Df	Degree=Pos	24	advmod	_	_
+23	ἂν	ἄν	ADV	Df	_	24	advmod	_	_
+24	τυγχάνοντας	τυγχάνω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	advcl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	advmod	_	_
+26	περὶ	περί	ADP	R-	_	30	case	_	_
+27	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	30	det	_	_
+28	ποιοῦνται	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	21	ccomp	_	_
+29	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	30	det	_	_
+30	λόγους	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	28	obl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	28	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 15
+#text = ἔχει δ᾽ οὕτως.
+1	ἔχει	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	οὕτως	οὕτω(ς)	ADV	Df	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 16
+#text = ἐγὼ τοῦ μὲν πολιτεύεσθαι καὶ ῥητορεύειν ἀπέστην:
+1	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+3	μὲν	μέν	ADV	Df	_	4	discourse	_	_
+4	πολιτεύεσθαι	πολιτεύομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid,Pass	8	acl	_	_
+5	καὶ	καί	CCONJ	C-	_	4	cc	_	_
+6	ῥητορεύειν	ῥητορεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
+7	ἀπέστην	ἀπέστης	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 17
+#text = οὔτε γὰρ φωνὴν ἔσχον ἱκανὴν οὔτε τόλμαν:
+1	οὔτε	οὔτε	CCONJ	C-	_	4	cc	_	_
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	_
+3	φωνὴν	φωνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	_
+4	ἔσχον	ἔχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ἱκανὴν	ἱκανός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+6	οὔτε	οὔτε	CCONJ	C-	_	4	cc	_	_
+7	τόλμαν	τόλμα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	4	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 18
+#text = οὐ μὴν παντάπασιν ἄχρηστος ἔφυν οὐδ᾽ ἀδόκιμος, ἀλλὰ τοῖς τε λέγειν προῃρημένοις ἀγαθόν τι περὶ ὑμῶν καὶ τῶν ἄλλων συμμάχων φανείην ἂν καὶ σύμβουλος καὶ συναγωνιστὴς γεγενημένος, αὐτός τε πλείους λόγους πεποιημένος ὑπὲρ τῆς ἐλευθερίας καὶ τῆς αὐτονομίας τῆς τῶν Ἑλλήνων ἢ σύμπαντες οἱ τὰ βήματα κατατετριφότες.
+1	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	_
+2	μὴν	μήν	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	nmod	_	_
+3	παντάπασιν	παντάπα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+4	ἄχρηστος	ἄχρηστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	3	amod	_	_
+5	ἔφυν	ἔφυν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+6	οὐδ᾽	οὐδ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ἀδόκιμος	ἀδόκιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	ccomp	_	_
+9	ἀλλὰ	ἀλλά	CCONJ	C-	_	12	cc	_	_
+10	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+11	τε	τε	CCONJ	C-	_	12	cc	_	_
+12	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	_
+13	προῃρημένοις	προῃρημένος	VERB	V-	Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	12	advcl	_	_
+14	ἀγαθόν	ἀγαθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	iobj	_	_
+15	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	14	det	_	_
+16	περὶ	περί	ADP	R-	_	17	case	_	_
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	13	obl	_	_
+18	καὶ	καί	CCONJ	C-	_	17	cc	_	_
+19	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	21	det	_	_
+20	ἄλλων	ἄλλος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	21	amod	_	_
+21	συμμάχων	σύμμαχος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	conj	_	_
+22	φανείην	φανεία	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	obj:dir	_	_
+23	ἂν	ἄν	ADV	Df	_	28	advmod	_	_
+24	καὶ	καί	CCONJ	C-	_	25	cc	_	_
+25	σύμβουλος	σύμβουλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	28	xcomp	_	_
+26	καὶ	καί	CCONJ	C-	_	25	cc	_	_
+27	συναγωνιστὴς	συναγωνιστής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	conj	_	_
+28	γεγενημένος	γίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	12	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	49	obj:dir	_	_
+30	αὐτός	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	33	det	_	_
+31	τε	τε	CCONJ	C-	_	49	cc	_	_
+32	πλείους	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	33	amod	_	_
+33	λόγους	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	45	obj:dir	_	_
+34	πεποιημένος	ποιέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+35	ὑπὲρ	ὑπέρ	ADP	R-	_	37	case	_	_
+36	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	_
+37	ἐλευθερίας	ἐλευθερία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	obl	_	_
+38	καὶ	καί	CCONJ	C-	_	37	cc	_	_
+39	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	_
+40	αὐτονομίας	αὐτονομία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	37	conj	_	_
+41	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	43	det	_	_
+42	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	43	det	_	_
+43	Ἑλλήνων	Ἕλλην	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	40	nmod	_	_
+44	ἢ	ἤ	CCONJ	C-	_	49	cc	_	_
+45	σύμπαντες	σύμπαντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	49	advcl	_	_
+46	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	49	det	_	_
+47	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	48	det	_	_
+48	βήματα	βήμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	49	obj:dir	_	_
+49	κατατετριφότες	κατατετριφότες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	49	xcomp	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 19
+#text = ὑπὲρ ὧν ὑμεῖς ἄν μοι δικαίως πλείστην ἔχοιτε χάριν:
+1	ὑπὲρ	ὑπέρ	ADP	R-	_	2	case	_	_
+2	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	0	root	_	_
+3	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+4	ἄν	ἄν	SCONJ	G-	_	8	mark	_	_
+5	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+6	δικαίως	δικαίως	ADV	Df	Degree=Pos	8	advmod	_	_
+7	πλείστην	πολύς	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	9	amod	_	_
+8	ἔχοιτε	ἔχοιτε	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+9	χάριν	χάρις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	2	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 20
+#text = μάλιστα γὰρ ἐπιθυμοῦντες διατελεῖτε τῆς τοιαύτης καταστάσεως.
+1	μάλιστα	μάλα	ADV	Df	Degree=Sup	4	advmod	_	_
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	_
+3	ἐπιθυμοῦντες	ἐπιθυμέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	_
+4	διατελεῖτε	διατελέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+6	τοιαύτης	τοιοῦτος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	καταστάσεως	κατάστασις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 21
+#text = οἶμαι δ᾽ ἄν, εἰ Κόνων μὲν καὶ Τιμόθεος ἐτύγχανον ζῶντες, Διόφαντος δ᾽ ἧκεν ἐκ τῆς Ἀσίας, πολλὴν ἂν αὐτοὺς ποιήσασθαι σπουδήν, εὑρέσθαι με βουλομένους ὧν τυγχάνω δεόμενος.
+1	οἶμαι	οἶμαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἄν	ἄν	ADV	Df	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	15	mark	_	_
+5	εἰ	εἰ	SCONJ	G-	_	6	mark	_	_
+6	Κόνων	Κών	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
+7	μὲν	μέν	ADV	Df	_	6	discourse	_	_
+8	καὶ	καί	CCONJ	C-	_	6	cc	_	_
+9	Τιμόθεος	Τιμόθεος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	ἐτύγχανον	τυγχάνω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+11	ζῶντες	ζῶ	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	mark	_	_
+13	Διόφαντος	Διόφας	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	iobj	_	_
+14	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
+15	ἧκεν	ἧκεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+16	ἐκ	ἐκ	ADP	R-	_	18	case	_	_
+17	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	Ἀσίας	Ἀσία	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	xcomp	_	_
+20	πολλὴν	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+21	ἂν	ἄν	ADV	Df	_	23	advmod	_	_
+22	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	ποιήσασθαι	ποιέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	15	advcl	_	_
+24	σπουδήν	σπουδή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj:dir	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	30	mark	_	_
+26	εὑρέσθαι	εὑρέσθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	30	xcomp	_	_
+27	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	26	obj:dir	_	_
+28	βουλομένους	βούλομαι	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	30	advcl	_	_
+29	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	30	obj:dir	_	_
+30	τυγχάνω	τυγχάνω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
+31	δεόμενος	δέω#2	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	30	advcl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	30	nsubj	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 22
+#text = περὶ ὧν οὐκ οἶδ᾽ ὅ τι δεῖ πλείω λέγειν:
+1	περὶ	περί	ADP	R-	_	2	case	_	_
+2	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	4	obl	_	_
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	_
+4	οἶδ᾽	οἶδ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ὅ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	_
+6	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+7	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+8	πλείω	πολύς	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	9	obj:dir	_	_
+9	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	ccomp	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	4	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 23
+#text = οὐδεὶς γὰρ ὑμῶν οὕτως ἐστὶ νέος οὐδ᾽ ἐπιλήσμων, ὅστις οὐκ οἶδε τὰς ἐκείνων εὐεργεσίας.
+1	οὐδεὶς	οὐδείς	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	_
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+4	οὕτως	οὕτω(ς)	ADV	Df	_	8	advcl	_	_
+5	ἐστὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	νέος	νέος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	_
+7	οὐδ᾽	οὐδ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+8	ἐπιλήσμων	ἐπιλήσμω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	obj:dir	_	_
+10	ὅστις	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
+11	οὐκ	οὐ	ADV	Df	Polarity=Neg	12	advmod	_	_
+12	οἶδε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	_
+13	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	15	det	_	_
+14	ἐκείνων	ἐκεῖνος	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+15	εὐεργεσίας	εὐεργεσία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obj:dir	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 24
+#text = οὕτω δ᾽ ἄν μοι δοκεῖτε κάλλιστα βουλεύσασθαι περὶ τούτων, εἰ σκέψαισθε, τίς ἐστιν ὁ δεόμενος καὶ ὑπὲρ ποίων τινῶν ἀνθρώπων.
+1	οὕτω	οὕτω(ς)	ADV	Df	_	2	advmod	_	_
+2	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ἄν	ἄν	ADV	Df	_	5	advmod	_	_
+4	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	δοκεῖτε	δοκέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+6	κάλλιστα	καλός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	7	advmod	_	_
+7	βουλεύσασθαι	βουλεύω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	5	xcomp	_	_
+8	περὶ	περί	ADP	R-	_	9	case	_	_
+9	τούτων	οὗτος	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	discourse	_	_
+11	εἰ	εἰ	SCONJ	G-	_	12	mark	_	_
+12	σκέψαισθε	σκέψαμαι	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	13	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	2	vocative	_	_
+14	τίς	τίς	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	13	ccomp	_	_
+15	ἐστιν	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+16	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+17	δεόμενος	δέω#2	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	14	nsubj	_	_
+18	καὶ	καί	CCONJ	C-	_	14	cc	_	_
+19	ὑπὲρ	ὑπέρ	ADP	R-	_	20	case	_	_
+20	ποίων	ποῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	14	conj	_	_
+21	τινῶν	τὶς	DET	Px	Case=Gen|Gender=Masc|Number=Plur	22	det	_	_
+22	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	13	vocative	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 25
+#text = εὑρήσετε γὰρ ἐμὲ μὲν οἰκειότατα κεχρημένον τοῖς μεγίστων ἀγαθῶν αἰτίοις γεγενημένοις ὑμῖν τε καὶ τοῖς ἄλλοις, ὑπὲρ ὧν δὲ δέομαι τοιούτους ὄντας, οἵους τοὺς μὲν πρεσβυτέρους καὶ τοὺς περὶ τὴν πολιτείαν ὄντας μὴ λυπεῖν, τοῖς δὲ νεωτέροις διατριβὴν παρέχειν ἡδεῖαν καὶ χρησίμην καὶ πρέπουσαν τοῖς τηλικούτοις.
+1	εὑρήσετε	εὑρίσκω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	_
+3	ἐμὲ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj:dir	_	_
+4	μὲν	μέν	ADV	Df	_	1	discourse	_	_
+5	οἰκειότατα	οἰκειοῦ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	11	obj:dir	_	_
+6	κεχρημένον	χράω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+7	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+8	μεγίστων	μεγίστων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	10	amod	_	_
+9	ἀγαθῶν	ἀγαθός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	10	amod	_	_
+10	αἰτίοις	αἰτῖον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	6	iobj	_	_
+11	γεγενημένοις	γεγενημένος	VERB	V-	Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	1	advcl	_	_
+12	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	iobj	_	_
+13	τε	τε	CCONJ	C-	_	12	cc	_	_
+14	καὶ	καί	CCONJ	C-	_	12	cc	_	_
+15	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	16	det	_	_
+16	ἄλλοις	ἄλλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	1	xcomp	_	_
+18	ὑπὲρ	ὑπέρ	ADP	R-	_	19	case	_	_
+19	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	21	obl	_	_
+20	δὲ	δέ	ADV	Df	_	21	discourse	_	_
+21	δέομαι	δέω#2	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	17	acl	_	_
+22	τοιούτους	τοιοῦτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	21	xcomp	_	_
+23	ὄντας	εἰμί#1	AUX	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	cop	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	21	advmod	_	_
+25	οἵους	οἷος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	42	nsubj	_	_
+26	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	28	det	_	_
+27	μὲν	μέν	ADV	Df	_	28	discourse	_	_
+28	πρεσβυτέρους	πρέσβυς	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	25	appos	_	_
+29	καὶ	καί	CCONJ	C-	_	28	cc	_	_
+30	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	31	det	_	_
+31	περὶ	περί	ADP	R-	_	33	case	_	_
+32	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	_
+33	πολιτείαν	πολιτεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	_
+34	ὄντας	εἰμί#1	AUX	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	36	cop	_	_
+35	μὴ	μή	ADV	Df	Polarity=Neg	36	advmod	_	_
+36	λυπεῖν	λυπέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	28	conj	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	42	advmod	_	_
+38	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	40	det	_	_
+39	δὲ	δέ	ADV	Df	_	42	discourse	_	_
+40	νεωτέροις	νεωτέρον	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	42	iobj	_	_
+41	διατριβὴν	διατριβή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	42	obj:dir	_	_
+42	παρέχειν	παρέχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	24	ccomp	_	_
+43	ἡδεῖαν	ἡδεῖα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	41	nmod	_	_
+44	καὶ	καί	CCONJ	C-	_	43	cc	_	_
+45	χρησίμην	χρησίμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	43	conj	_	_
+46	καὶ	καί	CCONJ	C-	_	43	cc	_	_
+47	πρέπουσαν	πρέπω	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	43	conj	_	_
+48	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	49	det	_	_
+49	τηλικούτοις	οὗτηλικος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	47	iobj	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	42	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 26
+#text = μὴ θαυμάζετε δ᾽ εἰ προθυμότερον καὶ διὰ μακροτέρων γέγραφα τὴν ἐπιστολήν:
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	_
+2	θαυμάζετε	θαυμάζω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+3	δ᾽	δ᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	εἰ	εἰ	SCONJ	G-	_	9	mark	_	_
+5	προθυμότερον	πρόθυμος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	9	advmod	_	_
+6	καὶ	καί	CCONJ	C-	_	5	cc	_	_
+7	διὰ	διά	ADP	R-	_	8	case	_	_
+8	μακροτέρων	μακρότεροι	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	conj	_	_
+9	γέγραφα	γράφω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+10	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	ἐπιστολήν	ἐπιστολή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	3	cc	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 27
+#text = βούλομαι γὰρ ἀμφότερα, τοῖς τε παισὶν ἡμῶν χαρίσασθαι καὶ ποιῆσαι φανερὸν αὐτοῖς ὅτι, κἂν μὴ δημηγορῶσι μηδὲ στρατηγῶσιν ἀλλὰ μόνον μιμῶνται τὸν τρόπον τὸν ἐμόν, οὐκ ἠμελημένως διάξουσιν ἐν τοῖς Ἕλλησιν.
+1	βούλομαι	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	_
+3	ἀμφότερα	ἀμφότεροι	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	xcomp	_	_
+5	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+6	τε	τε	CCONJ	C-	_	7	cc	_	_
+7	παισὶν	παῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+8	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	det	_	_
+9	χαρίσασθαι	χαρίζομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	4	ccomp	_	_
+10	καὶ	καί	CCONJ	C-	_	9	cc	_	_
+11	ποιῆσαι	ποιέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	9	conj	_	_
+12	φανερὸν	φανερός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	nsubj	_	_
+13	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	iobj	_	_
+14	ὅτι	ὅτι	SCONJ	G-	_	31	mark	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	31	cc	_	_
+16	κἂν	κἂς	ADV	Df	_	18	advmod	_	_
+17	μὴ	μή	ADV	Df	Polarity=Neg	18	advmod	_	_
+18	δημηγορῶσι	δημηγοράω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	advcl	_	_
+19	μηδὲ	μηδέ	CCONJ	C-	_	18	cc	_	_
+20	στρατηγῶσιν	στρατηγῶσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obj:dir	_	_
+21	ἀλλὰ	ἀλλά	CCONJ	C-	_	18	cc	_	_
+22	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	advmod	_	_
+23	μιμῶνται	μιμῶμαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	_
+24	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	25	det	_	_
+25	τρόπον	τρόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	_
+26	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	_
+27	ἐμόν	ἐμός	ADJ	Ps	Case=Acc|Gender=Neut|Number=Sing|Person=1|Poss=Yes	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	nsubj	_	_
+29	οὐκ	οὐ	ADV	Df	Polarity=Neg	31	advmod	_	_
+30	ἠμελημένως	ἠμελημένως	ADV	Df	Degree=Pos	31	advmod	_	_
+31	διάξουσιν	διάξω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+32	ἐν	ἐν	ADP	R-	_	34	case	_	_
+33	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	34	det	_	_
+34	Ἕλλησιν	Ἕλλην	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	31	advcl	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 28
+#text = ἓν ἔτι λοιπόν:
+1	ἓν	εἷς	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	3	nummod	_	_
+2	ἔτι	ἔτι	ADV	Df	_	1	advmod	_	_
+3	λοιπόν	λοιπός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	advmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	0	root	_	_
+
+#newdoc = urn:cts:greekLit:tlg0010.tlg025.perseus-grc2
+#newpar = 8-8
+#sent_id = 29
+#text = ἂν ἄρα δόξῃ τι τούτων ὑμῖν πράττειν, Ἀγήνορί τε δηλώσατε καὶ τοῖς ἀδελφοῖς ὅτι μέρος τι καὶ δι᾽ ἐμὲ τυγχάνουσιν ὧν ἐπεθύμουν.
+1	ἂν	ἄν	ADV	Df	_	3	advmod	_	_
+2	ἄρα	ἆρα	ADV	Df	_	3	discourse	_	_
+3	δόξῃ	δοκέω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	τι	τὶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	_
+5	τούτων	οὗτος	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	7	iobj	_	_
+7	πράττειν	πράττω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	nsubj	_	_
+9	Ἀγήνορί	Ἀγήνοήρ	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	7	advcl	_	_
+10	τε	τε	CCONJ	C-	_	9	cc	_	_
+11	δηλώσατε	δηλόω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+12	καὶ	καί	CCONJ	C-	_	9	cc	_	_
+13	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+14	ἀδελφοῖς	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	iobj	_	_
+15	ὅτι	ὅτι	SCONJ	G-	_	21	mark	_	_
+16	μέρος	μέρος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	obj:dir	_	_
+17	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	16	det	_	_
+18	καὶ	καί	CCONJ	C-	_	16	cc	_	_
+19	δι᾽	δι᾽	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	_
+20	ἐμὲ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	19	obj:dir	_	_
+21	τυγχάνουσιν	τυγχάνω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+22	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	23	obj:dir	_	_
+23	ἐπεθύμουν	ἐπεθύμουν	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	conj	_	_
+
